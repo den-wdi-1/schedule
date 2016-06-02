@@ -6,7 +6,7 @@
  **10:45am Module 2** | Icebreakers (Zeb/John) | CSS selector basics (Zeb) | JavaScript objects (John) | Debugging in JavaScript (Zeb) | Outcomes  
  **1:30pm Module 3** | How the internet works (Zeb) | Box model and positioning (John) | Functions and scope (Zeb) | DOM manipulation and events (John) | Review
 **3:00pm Module 4** | Navigating the file system + some meta skills (John) | Lab: CSS website replication (Zeb) | Lab: JavaScript functions (John) | Lab: DOM manipulation LoTR (Zeb) | Lab: Tic-Tac-Toe (John)      
-**Training** | Lab: Command line (Thomas/Zeb) | Lab: Build a website (Thomas/John) | Finish Lab(Thomas/John)  | Finish Lab (Thomas/Zeb) |  Finish Lab  
+**Training** | Kyrel 1 / Lab: Command line (Thomas/Zeb) | Kyrel 2 / Lab: Build a website (Thomas/John) | Kyrel 3 / Finish Lab(Thomas/John)  | Kyrel 4 / Finish Lab (Thomas/Zeb) |  Kyrel 5 / Finish Lab  
 
 #### Daily Schedule Overview
 
