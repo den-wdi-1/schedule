@@ -3,7 +3,7 @@
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:15am Module 1** | Orientation (Zeb/John) | Chrome dev tools (John) | JS Data types, variables, and arrays (Zeb) |  Mastering control flow (John)  | Review  
- **10:45am Module 2** | Icebreakers (Zeb/John) | CSS selector basics (Zeb) | JavaScript objects (John) | Debugging in JavaScript (Zeb) | Outcomes  
+ **10:45am Module 2** | Intro to WDI and Team (Zeb/John) | CSS selector basics (Zeb) | JavaScript objects (John) | Debugging in JavaScript (Zeb) | Outcomes  
  **1:30pm Module 3** | [How the internet works (Zeb)][1-1C] | Box model and positioning (John) | Functions and scope (Zeb) | DOM manipulation and events (John) | Review
 **3:00pm Module 4** | Navigating the file system + some meta skills (John) | Lab: CSS website replication (Zeb) | Lab: JavaScript functions (John) | Lab: DOM manipulation LoTR (Zeb) | Lab: Tic-Tac-Toe (John)      
 **Training** | Kyrel 1 / Lab: Command line (Thomas/Zeb) | Kyrel 2 / Lab: Build a website (Thomas/John) | Kyrel 3 / Finish Lab(Thomas/John)  | Kyrel 4 / Finish Lab (Thomas/Zeb) |  Kyrel 5 / Finish Lab  
