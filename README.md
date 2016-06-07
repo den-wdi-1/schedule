@@ -5,12 +5,12 @@
  **9:15am Module 1** | Orientation (Zeb/John) | Chrome dev tools (John) | JS Data types, variables, and arrays (Zeb) |  Mastering control flow (John)  | Review  
  **10:45am Module 2** | Intro to WDI and Team (Zeb/John) | CSS selector basics (Zeb) | JavaScript objects (John) | Debugging in JavaScript (Zeb) | Outcomes  
  **1:30pm Module 3** | [How the internet works (Zeb)][1-1C] | Box model and positioning (John) | Functions and scope (Zeb) | DOM manipulation and events (John) | Review
-**3:00pm Module 4** | Navigating the file system + some meta skills (John) | Lab: CSS website replication (Zeb) | Lab: JavaScript functions (John) | Lab: DOM manipulation LoTR (Zeb) | Lab: Tic-Tac-Toe (John)      
+**3:00pm Module 4** | [Navigating the file system + some meta skills (John)][1-1D] | Lab: CSS website replication (Zeb) | Lab: JavaScript functions (John) | Lab: DOM manipulation LoTR (Zeb) | Lab: Tic-Tac-Toe (John)      
 **Training** | Kyrel 1 / Lab: Command line (Thomas/Zeb) | Kyrel 2 / Lab: Build a website (Thomas/John) | Kyrel 3 / Finish Lab(Thomas/John)  | Kyrel 4 / Finish Lab (Thomas/Zeb) |  Kyrel 5 / Finish Lab  
 
 [1-1C]: https://github.com/den-wdi-1/how-the-internet-works "How the Internet Works"
+[1-1D]: https://github.com/den-wdi-1/terminal-basics-navigating-the-filesystem/
 <!--  Fill in these as we go
-[1-1D]: https://github.com/sf-wdi-29/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
 [1-1E]: https://github.com/sf-wdi-29/command-line-lab "Lab: Command Line"
 
 [1-2A]: https://github.com/sf-wdi-29/chrome-dev-tools "Chrome Dev Tools"
