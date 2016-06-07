@@ -2,10 +2,10 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:15am Module 1** | [Orientation (Zeb/John)][1-1A] | Chrome dev tools (John) | JS Data types, variables, and arrays (Zeb) |  Mastering control flow (John)  | Review  
- **10:45am Module 2** | Intro to WDI and Team (Zeb/John) | CSS selector basics (Zeb) | JavaScript objects (John) | Debugging in JavaScript (Zeb) | Outcomes  
- **1:30pm Module 3** | [How the internet works (Zeb)][1-1C] | Box model and positioning (John) | Functions and scope (Zeb) | DOM manipulation and events (John) | Review
-**3:00pm Module 4** | [Navigating the file system + some meta skills (John)][1-1D] | Lab: CSS website replication (Zeb) | Lab: JavaScript functions (John) | Lab: DOM manipulation LoTR (Zeb) | Lab: Tic-Tac-Toe (John)      
+ **9:00am Module 1** | [Orientation (Zeb/John)][1-1A] | Chrome dev tools (John) | JS Data types, variables, and arrays (Zeb) |  Mastering control flow (John)  | Review  
+ **10:30am Module 2** | Intro to WDI and Team (Zeb/John) | CSS selector basics (Zeb) | JavaScript objects (John) | Debugging in JavaScript (Zeb) | Outcomes  
+ **1:00pm Module 3** | [How the internet works (Zeb)][1-1C] | Box model and positioning (John) | Functions and scope (Zeb) | DOM manipulation and events (John) | Review
+**2:30pm Module 4** | [Navigating the file system + some meta skills (John)][1-1D] | Lab: CSS website replication (Zeb) | Lab: JavaScript functions (John) | Lab: DOM manipulation LoTR (Zeb) | Lab: Tic-Tac-Toe (John)      
 **Training** | Kyrel 1 / [Lab: Command line][1-1E] (Thomas/Zeb) | Kyrel 2 / Lab: Build a website (Thomas/John) | Kyrel 3 / Finish Lab(Thomas/John)  | Kyrel 4 / Finish Lab (Thomas/Zeb) |  Kyrel 5 / Finish Lab  
 
 [1-1A]: https://github.com/den-wdi-1/orientation "Orientation"
@@ -38,9 +38,9 @@
 
 Time  | Monday - Thursday  | Friday
 ----- | ------------------ | -----  
-9:15  | Module 1           | Review
-10:45 | Module 2           | Outcomes
-12:30 | Lunch              | Lunch
-1:30  | Module 3           | Review
-3:00  | Module 4           | Begin Weekend Lab
-4:30  | One-on-ones        | Rest
+9:00  | Module 1           | Review
+10:30 | Module 2           | Outcomes
+12:00 | Lunch              | Lunch
+1:00  | Module 3           | Review
+2:30  | Module 4           | Begin Weekend Lab
+4:00  | One-on-ones        | Rest
