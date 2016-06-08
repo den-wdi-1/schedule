@@ -9,7 +9,7 @@
 **Training** | [Kyrel Intro][1-1E] / [Lab: Command line][1-1F] (Thomas/Zeb) | Kyrel 2 / Lab: Build a website (Thomas/John) | Kyrel 3 / Finish Lab(Thomas/John)  | Kyrel 4 / Finish Lab (Thomas/Zeb) |  Kyrel 5 / Finish Lab  
 
 [1-1A]: https://github.com/den-wdi-1/orientation "Orientation"
-[1-1B]: https://github.com/den-wdi-1/Intro-to-WDI-and-team "Intro to WDI and Team
+[1-1B]: https://github.com/den-wdi-1/Intro-to-WDI-and-team "Intro to WDI and Team"
 [1-1C]: https://github.com/den-wdi-1/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/den-wdi-1/terminal-basics-navigating-the-filesystem/ "Navigating the file system"
 [1-1E]: https://github.com/den-wdi-1/kyrel "Kyrel 1"
