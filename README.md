@@ -3,10 +3,10 @@
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Module 1** | [Orientation (Zeb/John)][1-1A] | Chrome dev tools (John) | JS Data types, variables, and arrays (Zeb) |  Mastering control flow (John)  | Review  
- **10:30am Module 2** | [Intro to WDI and Team (Zeb/John)][1-1B] | CSS selector basics (Zeb) | JavaScript objects (John) | Debugging in JavaScript (Zeb) | Outcomes  
+ **10:30am Module 2** | [Intro to WDI and Team (Zeb/John)][1-1B] | CSS selector basics (Zeb) | Key-Value Store in JavaScript (John) | Debugging in JavaScript (Zeb) | Outcomes  
  **1:00pm Module 3** | [How the internet works (Zeb)][1-1C] | Box model and positioning (John) | Functions and scope (Zeb) | DOM manipulation and events (John) | Review
 **2:30pm Module 4** | [Navigating the file system + some meta skills (John)][1-1D] | Lab: CSS website replication (Zeb) | Lab: JavaScript functions (John) | Lab: DOM manipulation LoTR (Zeb) | Lab: Tic-Tac-Toe (John)      
-**Training** | [Kyrel Intro][1-1E] / [Lab: Command line][1-1F] (Thomas/Zeb) | Kyrel 2 / Lab: Build a website (Thomas/John) | Kyrel 3 / Finish Lab(Thomas/John)  | Kyrel 4 / Finish Lab (Thomas/Zeb) |  Kyrel 5 / Finish Lab  
+**Training** | [Kyrel Intro][1-1E] / [Lab: Command line][1-1F] (Tom/Zeb) | Kyrel 2 / Lab: Build a website (Tom/John) | Kyrel 3 / Finish Lab(Tom/John)  | Kyrel 4 / Finish Lab (Tom/Zeb) |  Kyrel 5 / Finish Lab  
 
 [1-1A]: https://github.com/den-wdi-1/orientation "Orientation"
 [1-1B]: https://github.com/den-wdi-1/Intro-to-WDI-and-team "Intro to WDI and Team"
