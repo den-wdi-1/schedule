@@ -2,9 +2,9 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Orientation (Zeb/John)][1-1A] | [Chrome dev tools (John)][1-2A] | [JS Data types, variables, and arrays (Zeb)][1-3A] |  [Mastering control flow (John)][1-4A]  | Developer-Led Review  
+ **9:00am Module 1** | [Orientation (Zeb/John)][1-1A] | [Chrome dev tools (John)][1-2A] | [JS Data types, variables, and arrays (Zeb)][1-3A] |  [Mastering control flow (John)][1-4A]  | Developer-Led Review  (Zeb)
  **10:30am Module 2** | [Intro to WDI and Team (Zeb/John)][1-1B] | [CSS selector basics (Zeb)][1-2B] | [Key-Value Store in JavaScript (John)][1-3B] | [Debugging in JavaScript (Zeb)][1-4B] | [Git and GitHub (JP)][1-5A]
- **1:00pm Module 3** | [How the internet works (Zeb)][1-1C] | [Box model and positioning (John)][1-2C] | [Functions and scope (Zeb)][1-3C] | [DOM manipulation and events (John)][1-4C] | [Consultant-Led Review][1-5B]
+ **1:00pm Module 3** | [How the internet works (Zeb)][1-1C] | [Box model and positioning (John)][1-2C] | [Functions and scope (Zeb)][1-3C] | [DOM manipulation and events (John)][1-4C] | [Consultant-Led Review (Zeb)][1-5B]
 **2:30pm Module 4** | [Navigating the file system + some meta skills (John)][1-1D] | [Lab: CSS website replication (Zeb)][1-2D] | [Lab: JavaScript functions (John)][1-3D] | [Lab: DOM manipulation LoTR (Zeb)][1-4D] | [Lab: Tic-Tac-Toe (JP)][1-5C]      
 **Training** | [Kyrel Intro][1-1E] / [Lab: Command line][1-1F] (Tom/Zeb) | [Kyrel 2][1-2E] / [Lab: Build a website (Tom/John)][1-2F] | [Kyrel 3][1-3E] / Finish Lab(Tom/John)  | [Kyrel 4][1-4E] / Finish Lab (Tom/Zeb) |  Kyrel 5 / Finish Lab  
 
