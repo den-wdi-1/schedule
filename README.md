@@ -6,7 +6,7 @@
  **10:30am Module 2** | [Intro to WDI and Team (Zeb/John)][1-1B] | [CSS selector basics (Zeb)][1-2B] | [Key-Value Store in JavaScript (John)][1-3B] | [Debugging in JavaScript (Zeb)][1-4B] | [Git and GitHub (JP)][1-5A]
  **1:00pm Module 3** | [How the internet works (Zeb)][1-1C] | [Box model and positioning (John)][1-2C] | [Functions and scope (Zeb)][1-3C] | [DOM manipulation and events (John)][1-4C] | [Consultant-Led Review (Zeb)][1-5B]
 **2:30pm Module 4** | [Navigating the file system + some meta skills (John)][1-1D] | [Lab: CSS website replication (Zeb)][1-2D] | [Lab: JavaScript functions (John)][1-3D] | [Lab: DOM manipulation LoTR (Zeb)][1-4D] | [Lab: Tic-Tac-Toe (JP)][1-5C]      
-**Training** | [Kyrel Intro][1-1E] / [Lab: Command line][1-1F] (Tom/Zeb) | [Kyrel 2][1-2E] / [Lab: Build a website (Tom/John)][1-2F] | [Kyrel 3][1-3E] / Finish Lab(Tom/John)  | [Kyrel 4][1-4E] / Finish Lab (Tom/Zeb) |  Kyrel 5 / Finish Lab  
+**Training** | [Kyrel Intro][1-1E] / [Lab: Command line][1-1F] (Tom/Zeb) | [Kyrel 2][1-2E] / [Lab: Build a website (Tom/John)][1-2F] | [Kyrel 3][1-3E] / Finish Lab(Tom/John)  | [Kyrel 4][1-4E] / Finish Lab (Tom/Zeb) |  [Kyrel 5][1-5D] / Finish Lab  
 
 [1-1A]: https://github.com/den-wdi-1/orientation "Orientation"
 [1-1B]: https://github.com/den-wdi-1/Intro-to-WDI-and-team "Intro to WDI and Team"
@@ -37,6 +37,7 @@
 [1-5A]: https://github.com/den-wdi-1/git-and-github "Git and GitHub"
 [1-5B]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 [1-5C]: https://github.com/den-wdi-1/tic-tac-toe "Lab: Tic-Tac-Toe"
+[1-5D]: https://github.com/den-wdi-1/kyrel/blob/master/challenges/day5.md "Kyrel 5"
 
 
 
