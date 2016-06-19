@@ -211,7 +211,7 @@ Weekly Goals:
 * Build a single page app that can communicate with an external server
 	* Understand how to send and retrieve data from a server using HJTML forms
 	* Understand how to send and retrieve data from a server using AJAX
-	* DRY code using external libararies including style libraries and templates
+	* DRY code using external libraries including style libraries and templates
 	* Describe the basics of object oriented programming. 
 * Communicate with other developers to improve code using Github
 	* Create a fork of a repository
