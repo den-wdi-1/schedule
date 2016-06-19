@@ -1,12 +1,12 @@
 ## Unit 3: Full-stack and Advanced Topics
 
-#### Week 12 - Final Project and Interview Work
+#### Week 12 - Project 4: Final Project and Interview Work
 
 #### Week 11 - Developer-chosen Electives
 
 #### Week 10 - In-depth Front-End Framework
 
-#### Week 9 - Group Project Review
+#### Week 9 - Project 3: Group Project
 
 #### Week 8 - Full-Stack JS Review and Security Deep Dive
 
@@ -54,7 +54,7 @@
 [7-5E]: https://github.com/sf-wdi-29/library-app "Library App"
 -->
 
-#### Week 6 - Sinatra Single-Resource App
+#### Week 6 - Project 2: Sinatra Single-Resource App
 <!--
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
