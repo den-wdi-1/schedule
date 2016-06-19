@@ -6,9 +6,9 @@
 
 #### Week 10 - In-depth Front-End Framework
 
-#### Week 9 - Full-Stack JS Review and Deep Dive
+#### Week 9 - Group Project Review
 
-#### Week 8 - TBD
+#### Week 8 - Full-Stack JS Review and Security Deep Dive
 
 ## Unit 2: The Server
 
@@ -201,11 +201,22 @@ Time | Day 1                                      | Day 2                       
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Module 1** | [GitHub Branching/Pages][2-1A] and [Developer Resources (JP)][2-1B]                     |      [jQuery & Browser Storage (Zeb)]                |  [AJAX & API's with jQuery (JP)]       |      [OOP in JS (Zeb)]     | [Review (Zeb)]
- **10:30am Module 2** |[Lab: Git and GitHub (JP)][2-1C]                |   [Responsive CSS & Flexbox (JP)]  |    [Handlebars Templating (JP)]                     |    [OOP in JS (Zeb)]    | Outcomes
-**1:00pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   [Intro to Bootstrap (Zeb)] |    [Geoquakes Lab (Zeb)]     |        [OOP concepts (JP)]     | [Questions in a Hat (JP)]
-**2:30pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E]                 |  [HTML Forms (JP)]  | [Geoquakes Lab Cont'd (Zeb)] |  [OOP Refactor Lab (JP)]  | [Create an Issue (Zeb)]|
-**Training** |[Building Iterators (Zeb)][2-1F] | [More jQuery Practice (Zeb)]  |  [OOP Prep (Zeb)] | [OOP Refactor cont'd] (JP) | [Weekend Lab: Fix an issue (JP)]
+ **9:00am Module 1** | [GitHub Branching/Pages][2-1A] and [Developer Resources (JP)][2-1B]                     |      jQuery & Browser Storage (Zeb)                |  AJAX & API's with jQuery (JP)       |      OOP in JS (Zeb)     | Review (Zeb)
+ **10:30am Module 2** | [Lab: Git and GitHub (JP)][2-1C]                |   Responsive CSS & Flexbox (JP)  |    Handlebars Templating (JP)                     |    OOP in JS (Zeb)    | Outcomes
+**1:00pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   Intro to Bootstrap (Zeb) |    Geoquakes Lab (Zeb)     |        OOP concepts (JP)     | Questions in a Hat (JP)
+**2:30pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E]                 |  HTML Forms (JP)  | Geoquakes Lab Cont'd (Zeb) |  OOP Refactor Lab (JP)  | Create an Issue (Zeb)|
+**Training** |[Building Iterators (Zeb)][2-1F]/[Flexbox Froggy (J.P.)](http://flexboxfroggy.com/) | More jQuery Practice (Zeb)   |  OOP Prep (Zeb) | OOP Refactor cont'd (JP) | Weekend Lab: Fix an issue (JP)
+
+Weekly Goals:
+* Build a single page app that can communicate with an external server
+	* Understand how to send and retrieve data from a server using HJTML forms
+	* Understand how to send and retrieve data from a server using AJAX
+	* DRY code using external libararies including style libraries and templates
+	* Describe the basics of object oriented programming. 
+* Communicate with other developers to improve code using Github
+	* Create a fork of a repository
+	* Use Pull Requests to improve a repository's quality 
+
 
 [2-1A]: https://github.com/den-wdi-1/git-and-github "Git and GitHub Branching and Pages"
 [2-1B]: https://github.com/den-wdi-1/developer-resources "Developer Resources"
