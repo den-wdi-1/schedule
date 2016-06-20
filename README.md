@@ -205,7 +205,7 @@ Time |Day 1                                      | Day 2                        
  **10:30am Module 2** | [Lab: Git and GitHub (JP)][2-1C]                |   Responsive CSS & Flexbox (JP)  |    Handlebars Templating (JP)                     |    OOP in JS (Zeb)    | Outcomes
 **1:00pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   Intro to Bootstrap (Zeb) |    Geoquakes Lab (Zeb)     |        OOP concepts (JP)     | Questions in a Hat (JP)
 **2:30pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1E]                 |  HTML Forms (JP)  | Geoquakes Lab Cont'd (Zeb) |  OOP Refactor Lab (JP)  | Create an Issue (Zeb)|
-**Training** |[Building Iterators (Zeb)][2-1F]/[Flexbox Froggy (J.P.)](http://flexboxfroggy.com/) | More jQuery Practice (Zeb)   |  OOP Prep (Zeb) | OOP Refactor cont'd (JP) | Weekend Lab: Fix an issue (JP)
+**Training** |[Building Iterators (Zeb)][2-1F] | More jQuery Practice (Zeb)   |  OOP Prep (Zeb) | OOP Refactor cont'd (JP) | Weekend Lab: Fix an issue (JP)
 
 Weekly Goals:
 * Build a single page app that can communicate with an external server
