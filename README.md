@@ -201,9 +201,9 @@ Time | Day 1                                      | Day 2                       
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Module 1** | [GitHub Branching/Pages][2-1A] and [Developer Resources (JP)][2-1B]                     |      [jQuery & Browser Storage (Zeb)][2-2A]                |  [AJAX & API's with jQuery (JP)][2-3A]       |      [OOP in JS (Zeb)][2-4A]     | Review (Zeb)
+ **9:00am Module 1** | [GitHub Branching/Pages][2-1A] and [Developer Resources (JP)][2-1B]                     |      [jQuery & Browser Storage (Zeb)][2-2A]                |  [AJAX & API's with jQuery (JP)][2-3A]       |      [OOP in JS (Zeb)][2-4A]     | [Questions in a Hat (JP)][2-5B]
  **10:30am Module 2** | [Lab: Git and GitHub (JP)][2-1C]                |   [Responsive CSS & Flexbox (JP)][2-2B]  |    [Handlebars Templating (JP)][2-3B]                     |    [OOP in JS (Zeb)][2-4B]    | Outcomes
-**1:00pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   [Intro to Bootstrap (Zeb)][2-2C] |    [Geoquakes Lab (Zeb)][2-3C]     |        [OOP concepts (JP)][2-4C]     | [Questions in a Hat (JP)][2-5B]
+**1:00pm Module 3** |[Callbacks & Iterators (Zeb)][2-1D]                          |   [Intro to Bootstrap (Zeb)][2-2C] |    [Geoquakes Lab (Zeb)][2-3C]     |        [OOP concepts (JP)][2-4C]     | Review (Zeb)
 **2:30pm Module 4** | [Lab: Callbacks & Iterators (Zeb)][2-1F]                 |  [HTML Forms (JP)][2-2D]  | [Geoquakes Lab Cont'd (Zeb)][2-3D] |  [OOP Refactor Lab (JP)][2-4C]  | [Create an Issue (Zeb)][2-5C]|
 **Training** |[Building Iterators (Zeb)][2-1F] | [More jQuery Practice (Zeb)][2-2E]   |  [OOP Prep (Zeb)][2-3E] | [OOP Refactor cont'd (JP)][2-4C] | [Weekend Lab: Fix an issue (JP)][2-5E]
 
