@@ -161,19 +161,23 @@ Time | Day 1                                    | Day 2                         
 ## Unit 1: The Client
 
 #### Week 3 - Project 1:  Browser Games
-<!--
+
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:17am Module 1** | Review Training (Alex)| [Binary Search (Ben)][3-2A]  | [Bubble Sort (Alex)][3-3A] |[ Merge Sort (Ilias)][3-4A] | Feedback
- **10:45am Module 2** |[Sass/CSS preprocessors (Ben) ][3-1B]| [Project 1][3-2B]  | [Project 1][3-3B] | [Project 1][3-4B]| Presentations
-**1:30pm Module 3** |[Agile development, wireframes, and user stories (Ilias)] [3-1C]| [Project 1][3-2C]  | [Project 1][3-3C] | [Outcomes][3-4C] |  Presentations
-**3:00pm Module 4** | [Project 1 Specs][3-1D] |  [Project 1][3-2D]|  [Project 1][3-3D]|  [Project 1][3-4D]| [Happy Hour][3-5D]
-**Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Learn you Node][3-5E] and [Fix an Issue][3-5F]
+**9:17am Module 1** | [Agile development, wireframes, and user stories ()] [3-1A] | Binary Search(Zeb)  | Bubble Sort (JP) | Merge Sort (Zeb) | Feedback
+ **10:45am Module 2** | [Project 1] [3-1B]| Outcomes | [Project 1][3-1B] | [Project 1][3-1B]| Presentations
+**1:30pm Module 3** | [Agile Development Lab]  [3-2C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
+**3:00pm Module 4** | [Review Topics] [3-1D] |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| Learn you Node and Fix an Issue
+**Training** | Project 1 | Project 1 | Project 1 | Project 1 | Rest
 
-[3-1A]: # "Review Training"
-[3-1B]: https://github.com/sf-wdi-29/sass-intro "SASS Lesson"
-[3-1C]: https://github.com/sf-wdi-29/software-development-best-practices "Agile development, wireframes, and user stories"
-[3-1D]: https://github.com/sf-wdi-29/project-1 "Project 1 Specs"
+Weekly Goals:
+* Create a browser based game for your porfollio
+* Learn about common ways software companies organize projects
+
+[3-1A]: https://github.com/den-wdi-1/software-development-best-practices "Agile development, wireframes, and user stories"
+[3-1B]: https://github.com/den-wdi-1/project-1 "Project 1 Specs"
+[3-1C]: https://github.com/den-wdi-1/software-development-best-practices "Agile development, wireframes, and user stories"
+[3-1D]: https://github.com/den-wdi-1/project-1 "Project 1 Specs"
 
 [3-2A]: https://github.com/sf-wdi-29/binary-search "Binary Search"
 [3-2B]: # "Project 1"
@@ -196,7 +200,7 @@ Time | Day 1                                      | Day 2                       
 [3-5D]: # "Happy Hour"
 [3-5E]: https://github.com/workshopper/learnyounode "Learn you Node"
 [3-5F]: https://github.com/sf-wdi-29/create-an-issue-project1 "Fix an issue"
--->
+
 #### Week 2 - JavaScript & Front-end Libraries
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
