@@ -166,7 +166,7 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Agile development, wireframes, and user stories (Zeb)] [3-1A] | Binary Search(Zeb)  | Bubble Sort (JP) | Merge Sort (Zeb) | Feedback
  **10:30am Module 2** | [Project 1 (JP)] [3-1B]| Outcomes | [Project 1][3-1B] | [Project 1][3-1B]| Presentations
-**1:00pm Module 3** | [Agile Development Lab (JP)]  [3-2C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
+**1:00pm Module 3** | [Agile Development Lab (JP)]  [3-1C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
 **2:30pm Module 4** | [Review Topics (Zeb)] [3-1D] |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| Learn you Node and Fix an Issue
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Rest
 
@@ -176,7 +176,7 @@ Weekly Goals:
 
 [3-1A]: https://github.com/den-wdi-1/software-development-best-practices "Agile development, wireframes, and user stories"
 [3-1B]: https://github.com/den-wdi-1/project-1 "Project 1 Specs"
-[3-1C]: https://github.com/den-wdi-1/software-development-best-practices "Agile development, wireframes, and user stories"
+[3-1C]: https://github.com/den-wdi-1/agile-lab "Agile Lab"
 [3-1D]: https://github.com/den-wdi-1/project-1 "Project 1 Specs"
 
 [3-2A]: https://github.com/sf-wdi-29/binary-search "Binary Search"
