@@ -178,7 +178,7 @@ Weekly Goals:
 [3-1B]: https://github.com/den-wdi-1/project-1 "Project 1 Specs"
 [3-1C]: https://github.com/den-wdi-1/agile-lab "Agile Lab"
 [3-1D]: https://github.com/den-wdi-1/js-dom-jquery-first "jQuery DOM"
-[3-1E]: https://github.com/ga-wdi-lessons/api-intro-with-ajax "jQuery AJAX"
+[3-1E]: https://github.com/den-wdi-1/api-intro-with-ajax "jQuery AJAX"
 [3-1F]: https://github.com/den-wdi-1/js-prototypes-constructors "Objects and Prototypes"
 
 [3-2A]: https://github.com/sf-wdi-29/binary-search "Binary Search"
