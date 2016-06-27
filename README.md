@@ -164,10 +164,10 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:17am Module 1** | [Agile development, wireframes, and user stories ()] [3-1A] | Binary Search(Zeb)  | Bubble Sort (JP) | Merge Sort (Zeb) | Feedback
- **10:45am Module 2** | [Project 1] [3-1B]| Outcomes | [Project 1][3-1B] | [Project 1][3-1B]| Presentations
-**1:30pm Module 3** | [Agile Development Lab]  [3-2C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
-**3:00pm Module 4** | [Review Topics] [3-1D] |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| Learn you Node and Fix an Issue
+**9:00am Module 1** | [Agile development, wireframes, and user stories (Zeb)] [3-1A] | Binary Search(Zeb)  | Bubble Sort (JP) | Merge Sort (Zeb) | Feedback
+ **10:30am Module 2** | [Project 1 (JP)] [3-1B]| Outcomes | [Project 1][3-1B] | [Project 1][3-1B]| Presentations
+**1:00pm Module 3** | [Agile Development Lab (JP)]  [3-2C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
+**2:30pm Module 4** | [Review Topics (Zeb)] [3-1D] |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| Learn you Node and Fix an Issue
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Rest
 
 Weekly Goals:
