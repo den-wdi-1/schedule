@@ -85,11 +85,11 @@ Extra Resources:
 <!--
 Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:17am Module 1** |Memorial Day | [Intro to Ruby (Alex)][5-1A] | [OOP Ruby (Ilias)][5-2A] |  [ActiveRecord Models (Ilias)][5-3A]       | [Review (Alex)][5-4A]
-**10:45am Module 2** | Memorial Day |  [Intro to Ruby Lab (Alex)][5-1B] | [OOP Ruby Lab (Ilias)][5-2B]   |    [ActiveRecord Models Lab (Ilias)][5-3B]     | Outcomes
-**1:30pm Module 3** | Memorial Day |  [Sinatra View Templating (Ben)][5-1C]| [Data Modeling (Alex)][5-2C] | [ActiveRecord (Ben)][5-3C]       | [Questions in a Hat (Ilias)][5-4C]
-**3:00pm Module 4** | Memorial Day |[Sinatra Controllers + Routes (Ben)][5-1D]  | [SQL (Alex)][5-2D]   |     [ActiveRecord Lab][5-3D]  | [Sinatra Project][5-4D]
-**Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][5-1E]  | [Carmen Sandiego Lab][5-2E]  | [Start Sinatra Project][5-3E]      | [Sinatra Project ][5-4E]
+**9:17am Module 1** | [Tune.ly][4-1A] | [Intro to Ruby (Zeb)][5-1A] | [OOP Ruby (JP)][5-2A] |  [ActiveRecord Models (JP)][5-3A]       | [Review (Alex)][5-4A]
+**10:45am Module 2** | [Tune.ly][4-4B] |  [Intro to Ruby Lab (Zeb)][5-1B] | [OOP Ruby Lab (JP)][5-2B]   |    [ActiveRecord Models Lab (JP)][5-3B]     | Outcomes
+**1:30pm Module 3** | [Tune.ly][4-4C] |  [Sinatra View Templating (JP)][5-1C]| [Data Modeling (Zeb)][5-2C] | [ActiveRecord (Zeb)][5-3C]       | [Questions in a Hat (Ilias)][5-4C]
+**3:00pm Module 4** | [Tune.ly][4-4D] |[Sinatra Controllers + Routes (JP)][5-1D]  | [SQL (Zeb)][5-2D]   |     [ActiveRecord Lab](Zeb)[5-3D]  | [Sinatra Project][5-4D]
+**Homework** | Tunely? | [Sinatra Code Study + Ruby Grandma Exercise ()][5-1E]  | [Carmen Sandiego Lab][5-2E]  | [Start Sinatra Project][5-3E]      | [Sinatra Project ][5-4E]
 
 [5-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
 [5-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
@@ -119,11 +119,11 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 <!--
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
-**9:17am Module 1** | [Intro to Node.js (Ilias)][4-1A]         | [Intro to Mongo (Alex)][4-2A]             | [Views in Express (Ben)][4-3A]    | [Tune.ly][4-4A]               | [Review (Ben)][4-5A]
-**10:45am Module 2** |  [Intro to Express (Ilias)][4-1B]         | [Intro to Mongoose (Alex)][4-2B]              |    [Lab: Views in Express (Ben)][4-3B]   | [Tune.ly][4-4B]        | [Outcomes][4-5B]
-**1:30pm Module 3** | [Building Express routes part 1 (Ben)][4-1C]                        | [Data Organization in Mongo (Ilias)][4-2C] |[Lab: ToDo List App (Alex)][4-3C] | [Tune.ly][4-4C]     | [Questions in a Hat (Ilias)][4-5C]
-**3:00pm Module 4** | [Building Express Routes part 2 (Ben)][4-1D]                  | [Lab: Full Stack JavaScript (Ilias)][4-2D]|   [ Ajax OOP Refactor Lab (Alex)][4-3D]      | [Tune.ly][4-4D]       | [Personal API Lab (Alex)][4-4E]
-**Homework** | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B]   | No Homework! You earned a break! Go Warriors! | Finish Lab + [First 3 Chapters of Why's Guide][4-5E]
+**9:17am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] | [Review ()][4-5A]
+**10:45am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | [Outcomes][4-5B]
+**1:30pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] | [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | [Questions in a Hat ()][4-5C]
+**3:00pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]| [ Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Alex)][4-4E]
+**Homework** | Fourth of July | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B] | Finish Lab + [First 3 Chapters of Why's Guide][4-5E]
 
 
 [4-1A]: https://github.com/sf-wdi-29/nodejs "Intro to Node.js"
