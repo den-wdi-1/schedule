@@ -164,7 +164,7 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development, wireframes, and user stories (Zeb)] [3-1A] | Binary Search(Zeb)  | Bubble Sort (JP) | Merge Sort (Zeb) | Feedback
+**9:00am Module 1** | [Agile development, wireframes, and user stories (Zeb)] [3-1A] | [Binary Search(Zeb)][3-2A]  | Bubble Sort (JP) | Merge Sort (Zeb) | Feedback
  **10:30am Module 2** | [Project 1 (JP)] [3-1B]| Outcomes | [Project 1][3-1B] | [Project 1][3-1B]| Presentations
 **1:00pm Module 3** | [Agile Development Lab (JP)]  [3-1C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
 **2:30pm Module 4** | Review on [jQuery DOM][3-1D] and [AJAX][3-1E], then [Objects and Prototypes][3-1F] (Zeb)  |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| Learn you Node and Fix an Issue
@@ -181,12 +181,12 @@ Weekly Goals:
 [3-1E]: https://github.com/den-wdi-1/api-intro-with-ajax "jQuery AJAX"
 [3-1F]: https://github.com/den-wdi-1/js-prototypes-constructors "Objects and Prototypes"
 
-[3-2A]: https://github.com/sf-wdi-29/binary-search "Binary Search"
+[3-2A]: https://github.com/den-wdi-1/binary-search "Binary Search"
 [3-2B]: # "Project 1"
 [3-2C]: # "Project 1"
 [3-2D]: # "Project 1"
 
-[3-3A]: https://github.com/sf-wdi-29/bubble-sort "Bubble Sort"
+[3-3A]: https://github.com/den-wdi-1/bubble-sort "Bubble Sort"
 [3-3B]: # "Project 1"
 [3-3C]: # "Project 1"
 [3-3D]: # "Project 1"
