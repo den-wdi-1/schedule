@@ -164,10 +164,10 @@ Time | Day 1                                    | Day 2                         
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Agile development, wireframes, and user stories (Zeb)] [3-1A] | [Binary Search(Zeb)][3-2A]  | [Bubble Sort (JP)][3-3A] | Merge Sort (Zeb) | Feedback
+**9:00am Module 1** | [Agile development, wireframes, and user stories (Zeb)] [3-1A] | [Binary Search(Zeb)][3-2A]  | [Bubble Sort (JP)][3-3A] | [Merge Sort (Zeb)][3-4A] | Feedback
  **10:30am Module 2** | [Project 1 (JP)] [3-1B]| Outcomes | [Project 1][3-1B] | [Project 1][3-1B]| Presentations
 **1:00pm Module 3** | [Agile Development Lab (JP)]  [3-1C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
-**2:30pm Module 4** | Review on [jQuery DOM][3-1D] and [AJAX][3-1E], then [Objects and Prototypes][3-1F] (Zeb)  |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| Learn you Node and Fix an Issue
+**2:30pm Module 4** | Review on [jQuery DOM][3-1D] and [AJAX][3-1E], then [Objects and Prototypes][3-1F] (Zeb)  |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| [Learn you Node][3-5E] and [Fix an Issue (Zeb)][3-5F]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Rest
 
 Weekly Goals:
@@ -191,7 +191,7 @@ Weekly Goals:
 [3-3C]: # "Project 1"
 [3-3D]: # "Project 1"
 
-[3-4A]: https://github.com/sf-wdi-29/merge-sort "Merge Sort"
+[3-4A]: https://github.com/den-wdi-1/merge-sort "Merge Sort"
 [3-4B]: # "Project 1"
 [3-4C]: # "Outcomes"
 [3-4D]: # "Project 1"
@@ -201,7 +201,7 @@ Weekly Goals:
 [3-5C]: # "Review"
 [3-5D]: # "Happy Hour"
 [3-5E]: https://github.com/workshopper/learnyounode "Learn you Node"
-[3-5F]: https://github.com/sf-wdi-29/create-an-issue-project1 "Fix an issue"
+[3-5F]: https://github.com/den-wdi-1/create-an-issue-project1 "Fix an issue"
 
 #### Week 2 - JavaScript & Front-end Libraries
 
