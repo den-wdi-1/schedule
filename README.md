@@ -168,7 +168,7 @@ Time | Day 1                                      | Day 2                       
  **10:30am Module 2** | [Project 1 (JP)] [3-1B]| Outcomes | [Project 1][3-1B] | [Project 1][3-1B]| Presentations
 **1:00pm Module 3** | [Agile Development Lab (JP)]  [3-1C]  | [Project 1][3-1B] | [Project 1][3-1B] | [Project 1][3-1B] |  Presentations
 **2:30pm Module 4** | Review on [jQuery DOM][3-1D] and [AJAX][3-1E], then [Objects and Prototypes][3-1F] (Zeb)  |  [Project 1][3-1B]|  [Project 1][3-1B]|  [Project 1][3-1B]| [Learn you Node][3-5E] and [Fix an Issue (Zeb)][3-5F]
-**Training** | Project 1 | Project 1 | Project 1 | Project 1 | Rest
+**Training** | Project 1 | Project 1 | Project 1 | Project 1 | Complete LYN and Fixing Issues
 
 Weekly Goals:
 * Create a browser based game for your porfollio
