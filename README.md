@@ -91,6 +91,12 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 **3:00pm Module 4** | [Tune.ly][4-4D] |[Sinatra Controllers + Routes (JP)][5-1D]  | [SQL (Zeb)][5-2D]   |     [ActiveRecord Lab](Zeb)[5-3D]  | [Sinatra Project][5-4D]
 **Homework** | Tunely? | [Sinatra Code Study + Ruby Grandma Exercise ()][5-1E]  | [Carmen Sandiego Lab][5-2E]  | [Start Sinatra Project][5-3E]      | [Sinatra Project ][5-4E]
 
+[4-4A]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4B]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4C]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4D]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4E]: https://github.com/sf-wdi-29/express-personal-api "Tunely"
+
 [5-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
 [5-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
 [5-1C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
@@ -116,22 +122,22 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 [5-4E]: #  "Weekend Sinatra app"
 -->
 #### Week 4 - Node and Express
-<!--
+
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
-**9:17am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] | [Review ()][4-5A]
-**10:45am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | [Outcomes][4-5B]
-**1:30pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] | [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | [Questions in a Hat ()][4-5C]
-**3:00pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]| [ Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Alex)][4-4E]
-**Homework** | Fourth of July | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B] | Finish Lab + [First 3 Chapters of Why's Guide][4-5E]
+**9:17am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | Intro to Mongo (Zeb) | Views in Express (JP) | Review ()
+**10:45am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | Intro to Mongoose (Zeb) | Lab: Views in Express (JP) | Outcomes
+**1:30pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] | Data Organization in Mongo (JP) |Lab: ToDo List App (Zeb) | Questions in a Hat ()
+**3:00pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | Lab: Full Stack JavaScript (JP)|  Ajax OOP Refactor Lab (Zeb) | Personal API Lab (Alex)
+**Homework** | Fourth of July | [More Express Routes][4-1E] | Lab: Mongo   |   Finish Labs | Finish Lab + First 3 Chapters of Why's Guide
 
 
-[4-1A]: https://github.com/sf-wdi-29/nodejs "Intro to Node.js"
-[4-1B]: https://github.com/sf-wdi-29/express "Intro to Express.js"
-[4-1C]: https://github.com/sf-wdi-29/express-routing-lesson "Building Express Routes part 1"
-[4-1D]: https://github.com/sf-wdi-29/express-routing-lab "Building Express Routes part 2"
-[4-1E]: https://github.com/sf-wdi-29/more-express-routes "More Express Routes"
-
+[4-1A]: https://github.com/den-wdi-1/nodejs "Intro to Node.js"
+[4-1B]: https://github.com/den-wdi-1/express "Intro to Express.js"
+[4-1C]: https://github.com/den-wdi-1/express-routing-lesson "Building Express Routes part 1"
+[4-1D]: https://github.com/den-wdi-1/express-routing-lab "Building Express Routes part 2"
+[4-1E]: https://github.com/den-wdi-1/more-express-routes "More Express Routes"
+<!--
 [4-2A]: https://github.com/sf-wdi-29/mongo-intro "Intro to Node with Mongo"
 [4-2B]: https://github.com/sf-wdi-29/intro-mongoose "Mongo-backed models with Mongoose"
 [4-2C]: https://github.com/sf-wdi-29/mongo-structured-data "Data Organization in Mongo"
@@ -143,12 +149,6 @@ Time | Day 1                                    | Day 2                         
 [4-3C]: https://github.com/sf-wdi-29/test-driven-todo-api "Todo Lab, Part 1"
 [4-3D]: https://github.com/sf-wdi-29/ajax-oop-refactor-lab "AJAX Lesson"
 [4-3E]: # "Todo Lab, Part 2"
-
-[4-4A]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4B]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4C]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4D]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4E]: https://github.com/sf-wdi-29/express-personal-api "Tunely"
 
 [4-5A]: # "Review"
 [4-5B]: # "Outcomes"
