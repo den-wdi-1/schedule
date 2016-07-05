@@ -125,10 +125,10 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
-**9:17am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | Intro to Mongo (Zeb) | Views in Express (JP) | Review ()
-**10:45am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | Intro to Mongoose (Zeb) | Lab: Views in Express (JP) | Outcomes
-**1:30pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] | Data Organization in Mongo (JP) |Lab: ToDo List App (Zeb) | Questions in a Hat ()
-**3:00pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | Lab: Full Stack JavaScript (JP)|  Ajax OOP Refactor Lab (Zeb) | Personal API Lab ()
+**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | Intro to Mongo (Zeb) | Views in Express (JP) | Review ()
+**10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | Intro to Mongoose (Zeb) | Lab: Views in Express (JP) | Outcomes
+**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] | Data Organization in Mongo (JP) |Lab: ToDo List App (Zeb) | Questions in a Hat ()
+**2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | Lab: Full Stack JavaScript (JP)|  Ajax OOP Refactor Lab (Zeb) | Personal API Lab ()
 **Homework** | Fourth of July | [More Express Routes][4-1E] | Lab: Mongo   |   Finish Labs | Finish Lab + First 3 Chapters of Why's Guide
 
 
