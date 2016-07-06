@@ -127,7 +127,7 @@ Time | Day 1                                    | Day 2                         
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
 **9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | Views in Express (JP) | Review ()
 **10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | Lab: Views in Express (JP) | Outcomes
-**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] | [Data Organization in Mongo (JP)][4-2C] |Lab: ToDo List App (Zeb) | Questions in a Hat ()
+**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |Lab: ToDo List App (Zeb) | Questions in a Hat ()
 **2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  Ajax OOP Refactor Lab (Zeb) | Personal API Lab ()
 **Homework** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + First 3 Chapters of Why's Guide
 
@@ -141,6 +141,7 @@ Time | Day 1                                    | Day 2                         
 [4-2A]: https://github.com/den-wdi-1/mongo-intro "Intro to Node with Mongo"
 [4-2B]: https://github.com/den-wdi-1/intro-mongoose "Mongo-backed models with Mongoose"
 [4-2C]: https://github.com/den-wdi-1/mongo-structured-data "Data Organization in Mongo"
+[4-2CA]:https://github.com/den-wdi-1/expres-resource-reteach "Express Reteach"
 [4-2D]: https://github.com/den-wdi-1/mongoose-books-app "Full Stack JavaScript Lab"
 [4-2E]: #  "Connecting Express Routes to Mongo Lab"
 <!--
