@@ -125,10 +125,10 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
-**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | Views in Express (JP) | Review ()
-**10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | Lab: Views in Express (JP) | Outcomes
-**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |Lab: ToDo List App (Zeb) | Questions in a Hat ()
-**2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  Ajax OOP Refactor Lab (Zeb) | Personal API Lab ()
+**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] | Review ()
+**10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | Outcomes
+**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | Questions in a Hat ()
+**2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | Personal API Lab ()
 **Homework** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + First 3 Chapters of Why's Guide
 
 
@@ -144,13 +144,12 @@ Time | Day 1                                    | Day 2                         
 [4-2CA]:https://github.com/den-wdi-1/expres-resource-reteach "Express Reteach"
 [4-2D]: https://github.com/den-wdi-1/mongoose-books-app "Full Stack JavaScript Lab"
 [4-2E]: #  "Connecting Express Routes to Mongo Lab"
-<!--
-[4-3A]: https://github.com/sf-wdi-29/express-views-lesson "Views in Express Lesson"
-[4-3B]: https://github.com/sf-wdi-29/express-views-lab "Views in Express Lab"
-[4-3C]: https://github.com/sf-wdi-29/test-driven-todo-api "Todo Lab, Part 1"
-[4-3D]: https://github.com/sf-wdi-29/ajax-oop-refactor-lab "AJAX Lesson"
-[4-3E]: # "Todo Lab, Part 2"
 
+[4-3A]: https://github.com/den-wdi-1/express-views-lesson "Views in Express Lesson"
+[4-3B]: https://github.com/den-wdi-1/express-views-lab "Views in Express Lab"
+[4-3C]: https://github.com/den-wdi-1/test-driven-todo-api "Todo Lab, Part 1"
+[4-3D]: https://github.com/den-wdi-1/ajax-oop-refactor-lab "AJAX Lesson"
+<!--
 [4-5A]: # "Review"
 [4-5B]: # "Outcomes"
 [4-5C]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
