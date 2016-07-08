@@ -125,7 +125,7 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
-**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] | Questions in a Hat (JP)
+**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] | [Questions in a Hat (JP)][4-4A]
 **10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | Outcomes (Sara)
 **1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | [Developer-led Review (Zeb)][4-4C]
 **2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Zeb)][4-4D]
