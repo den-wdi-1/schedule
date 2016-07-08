@@ -125,11 +125,11 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
-**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] |  [Questions in a Hat][4-5A] (JP)
-**10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | Outcomes
-**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | Review (Zeb)
-**2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | Personal API Lab (Zeb)
-**Homework** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab 
+**9:00am Module 1** | Fourth of July | [Intro to Node.js (Zeb)][4-1A] | [Intro to Mongo (Zeb)][4-2A] | [Views in Express (JP)][4-3A] | Questions in a Hat (JP)
+**10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | Outcomes (Sara)
+**1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | [Developer-led Review (Zeb)][4-4C]
+**2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Zeb)][4-4D]
+**Homework** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + [CodeSchool Ruby Tutorial][4-4E]
 
 
 [4-1A]: https://github.com/den-wdi-1/nodejs "Intro to Node.js"
@@ -150,10 +150,11 @@ Time | Day 1                                    | Day 2                         
 [4-3C]: https://github.com/den-wdi-1/test-driven-todo-api "Todo Lab, Part 1"
 [4-3D]: https://github.com/den-wdi-1/ajax-oop-refactor-lab "AJAX Lesson"
 
-[4-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
-[4-5B]: # "Outcomes"
-[4-5C]: # "Review"
-[4-5D]: # "Personal API Weekend Lab"
+[4-4A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[4-4B]: # "Outcomes"
+[4-4C]: https://github.com/den-wdi-1/fullStack-JS-review "Review"
+[4-4D]: https://github.com/den-wdi-1/express-personal-api
+[4-4E]: https://www.codeschool.com/courses/try-ruby "Code School Try Ruby"
 
 ## Unit 1: The Client
 
