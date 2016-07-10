@@ -82,21 +82,20 @@ Extra Resources:
 
 -->
 #### Week 5 - Ruby and Sinatra
-<!--
+
 Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:17am Module 1** | [Tune.ly][4-1A] | [Intro to Ruby (Zeb)][5-1A] | [OOP Ruby (JP)][5-2A] |  [ActiveRecord Models (JP)][5-3A]       | [Review (Alex)][5-4A]
-**10:45am Module 2** | [Tune.ly][4-4B] |  [Intro to Ruby Lab (Zeb)][5-1B] | [OOP Ruby Lab (JP)][5-2B]   |    [ActiveRecord Models Lab (JP)][5-3B]     | Outcomes
-**1:30pm Module 3** | [Tune.ly][4-4C] |  [Sinatra View Templating (JP)][5-1C]| [Data Modeling (Zeb)][5-2C] | [ActiveRecord (Zeb)][5-3C]       | [Questions in a Hat (Ilias)][5-4C]
-**3:00pm Module 4** | [Tune.ly][4-4D] |[Sinatra Controllers + Routes (JP)][5-1D]  | [SQL (Zeb)][5-2D]   |     [ActiveRecord Lab](Zeb)[5-3D]  | [Sinatra Project][5-4D]
-**Homework** | Tunely? | [Sinatra Code Study + Ruby Grandma Exercise ()][5-1E]  | [Carmen Sandiego Lab][5-2E]  | [Start Sinatra Project][5-3E]      | [Sinatra Project ][5-4E]
+**9:00am Module 1** | [Tune.ly][4-1A] | Intro to Ruby (Zeb) | OOP Ruby (JP) |  ActiveRecord Models (JP)      | Questions in a Hat (JP)
+**10:30am Module 2** | [Tune.ly][4-4B] |  Intro to Ruby Lab (Zeb) | OOP Ruby Lab (JP)   |    ActiveRecord Models Lab (JP)     | Outcomes
+**1:00pm Module 3** | [Tune.ly][4-4C] |  Sinatra View Templating (JP)| Data Modeling (Zeb) | ActiveRecord (Zeb)       | Dev-Led Review (Zeb)
+**2:30pm Module 4** | [Tune.ly][4-4D] |Sinatra Controllers + Routes (JP)  | SQL (Zeb)   |     ActiveRecord Lab(Zeb)  | Sinatra Project
+**Homework** | Tunely | Sinatra Code Study + Ruby Grandma Exercise  | Carmen Sandiego Lab  | Start Sinatra Project      | Sinatra Project
 
-[4-4A]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4B]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4C]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4D]: https://github.com/sf-wdi-29/tunely "Tunely"
-[4-4E]: https://github.com/sf-wdi-29/express-personal-api "Tunely"
-
+[4-4A]: https://github.com/den-wdi-1/tunely "Tunely"
+[4-4B]: https://github.com/den-wdi-1/tunely "Tunely"
+[4-4C]: https://github.com/den-wdi-1/tunely "Tunely"
+[4-4D]: https://github.com/den-wdi-1/tunely "Tunely"
+<!--
 [5-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
 [5-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
 [5-1C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
