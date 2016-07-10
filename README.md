@@ -83,42 +83,42 @@ Extra Resources:
 -->
 #### Week 5 - Ruby and Sinatra
 
-Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
+Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:00am Module 1** | [Tune.ly][4-1A] | Intro to Ruby (Zeb) | OOP Ruby (JP) |  ActiveRecord Models (JP)      | Questions in a Hat (JP)
-**10:30am Module 2** | [Tune.ly][4-4B] |  Intro to Ruby Lab (Zeb) | OOP Ruby Lab (JP)   |    ActiveRecord Models Lab (JP)     | Outcomes
-**1:00pm Module 3** | [Tune.ly][4-4C] |  Sinatra View Templating (JP)| Data Modeling (Zeb) | ActiveRecord (Zeb)       | Dev-Led Review (Zeb)
-**2:30pm Module 4** | [Tune.ly][4-4D] |Sinatra Controllers + Routes (JP)  | SQL (Zeb)   |     ActiveRecord Lab(Zeb)  | Sinatra Project
+**9:00am Module 1** | [Tune.ly][5-1A] | Intro to Ruby (Zeb) | OOP Ruby (JP) |  ActiveRecord Models (JP)      | Questions in a Hat (JP)
+**10:30am Module 2** | [Tune.ly][5-1B] |  Intro to Ruby Lab (Zeb) | OOP Ruby Lab (JP)   |    ActiveRecord Models Lab (JP)     | Outcomes
+**1:00pm Module 3** | [Tune.ly][5-1C] |  Sinatra View Templating (JP)| Data Modeling (Zeb) | ActiveRecord (Zeb)       | Dev-Led Review (Zeb)
+**2:30pm Module 4** | [Tune.ly][5-1D] |Sinatra Controllers + Routes (JP)  | SQL (Zeb)   |     ActiveRecord Lab(Zeb)  | Sinatra Project
 **Homework** | Tunely | Sinatra Code Study + Ruby Grandma Exercise  | Carmen Sandiego Lab  | Start Sinatra Project      | Sinatra Project
 
-[4-4A]: https://github.com/den-wdi-1/tunely "Tunely"
-[4-4B]: https://github.com/den-wdi-1/tunely "Tunely"
-[4-4C]: https://github.com/den-wdi-1/tunely "Tunely"
-[4-4D]: https://github.com/den-wdi-1/tunely "Tunely"
+[5-1A]: https://github.com/den-wdi-1/tunely "Tunely"
+[5-1B]: https://github.com/den-wdi-1/tunely "Tunely"
+[5-1C]: https://github.com/den-wdi-1/tunely "Tunely"
+[5-1D]: https://github.com/den-wdi-1/tunely "Tunely"
 <!--
-[5-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
-[5-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
-[5-1C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
-[5-1D]: https://github.com/sf-wdi-29/sinatra-controllers-and-routes "Controllers & RESTful Routing"
-[5-1E]: https://github.com/sf-wdi-29/deaf-grandma  "Sinatra Code Study + Ruby Grandma Exercise"
+[5-2A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
+[5-2B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
+[5-2C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
+[5-2D]: https://github.com/sf-wdi-29/sinatra-controllers-and-routes "Controllers & RESTful Routing"
+[5-2E]: https://github.com/sf-wdi-29/deaf-grandma  "Sinatra Code Study + Ruby Grandma Exercise"
 
-[5-2A]: https://github.com/sf-wdi-29/ruby-oop "Ruby OOP Lesson"
-[5-2B]: https://github.com/sf-wdi-29/monkey-oop "Ruby OOP Lab"
-[5-2C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
-[5-2D]: https://github.com/sf-wdi-29/sql "SQL Select Lab"
-[5-2E]: https://github.com/sf-wdi-29/sql-carmen-sandiego "SQL"
+[5-3A]: https://github.com/sf-wdi-29/ruby-oop "Ruby OOP Lesson"
+[5-3B]: https://github.com/sf-wdi-29/monkey-oop "Ruby OOP Lab"
+[5-3C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
+[5-3D]: https://github.com/sf-wdi-29/sql "SQL Select Lab"
+[5-3E]: https://github.com/sf-wdi-29/sql-carmen-sandiego "SQL"
 
-[5-3A]: https://github.com/sf-wdi-29/active-record-models "Building Models with ActiveRecord and Migrations"
-[5-3B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
-[5-3C]: https://github.com/sf-wdi-29/active-record-methods-finders "ActiveRecord Methods and Finders"
-[5-3D]: https://github.com/sf-wdi-29/active-record-pizza-lab "ActiveRecord Finders lab"
-[5-3E]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
+[5-4A]: https://github.com/sf-wdi-29/active-record-models "Building Models with ActiveRecord and Migrations"
+[5-4B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
+[5-4C]: https://github.com/sf-wdi-29/active-record-methods-finders "ActiveRecord Methods and Finders"
+[5-4D]: https://github.com/sf-wdi-29/active-record-pizza-lab "ActiveRecord Finders lab"
+[5-4E]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
 
-[5-4A]: # "Review"
-[5-4B]: # "Outcomes"
-[5-4C]: # "Questions in a Hat"
-[5-4D]: #  "Weekend Sinatra app"
-[5-4E]: #  "Weekend Sinatra app"
+[5-5A]: # "Review"
+[5-5B]: # "Outcomes"
+[5-5C]: # "Questions in a Hat"
+[5-5D]: #  "Weekend Sinatra app"
+[5-5E]: #  "Weekend Sinatra app"
 -->
 #### Week 4 - Node and Express
 
