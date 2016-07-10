@@ -58,16 +58,14 @@
 <!--
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:30am Module 1** | [Sinatra Relationships (Ben)][6-1A]  | [Username Generator (Ilias)][6-2A] | [Go Fish game (Alex)][6-3A] | Project 2  |      [Project 2 Presentations][6-5A]      |
- **10:45am Module 2** | Project 2    | Project 2  | Project 2  | Project 2      | Outcomes     |
- **1:30pm Module 3** |  Project 2    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations  |
-**3:00pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
+ **9:00am Module 1** | [Username Generator (Ilias)][6-1A]  | Project 2 |  | Project 2  |      [Project 2 Presentations][6-5A]      |
+ **10:30am Module 2** | [Go Fish game (Alex)][6-1B]    | Project 2  | Project 2  | Project 2      | Outcomes     |
+ **1:00pm Module 3** |  Project 2    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations  |
+**2:30pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
 **Homework** | Homework | Homework | Homework | Homework |  [Rails for Zombies (spend ~2  hours)](http://railsforzombies.org/levels/1) |
 
-
-[6-1A]: https://github.com/sf-wdi-29/sinatra-relationships-lab "Sinatra Relationships"
-[6-2A]: https://github.com/sf-wdi-29/username-generator "Username Generator"
-[6-3A]: https://github.com/sf-wdi-29/go-fish-card-game "Go Fish Game"
+[6-1A]: https://github.com/sf-wdi-29/username-generator "Username Generator"
+[6-1B]: https://github.com/sf-wdi-29/go-fish-card-game "Go Fish Game"
 [6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"
 
 
@@ -88,8 +86,8 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 **9:00am Module 1** | [Tune.ly][5-1A] | Intro to Ruby (Zeb) | OOP Ruby (JP) |  ActiveRecord Models (JP)      | Questions in a Hat (JP)
 **10:30am Module 2** | [Tune.ly][5-1B] |  Intro to Ruby Lab (Zeb) | OOP Ruby Lab (JP)   |    ActiveRecord Models Lab (JP)     | Outcomes
 **1:00pm Module 3** | [Tune.ly][5-1C] |  Sinatra View Templating (JP)| Data Modeling (Zeb) | ActiveRecord (Zeb)       | Dev-Led Review (Zeb)
-**2:30pm Module 4** | [Tune.ly][5-1D] |Sinatra Controllers + Routes (JP)  | SQL (Zeb)   |     ActiveRecord Lab(Zeb)  | Sinatra Project
-**Homework** | Tunely | Sinatra Code Study + Ruby Grandma Exercise  | Carmen Sandiego Lab  | Start Sinatra Project      | Sinatra Project
+**2:30pm Module 4** | [Tune.ly][5-1D] |Sinatra Controllers + Routes (JP)  | SQL (Zeb)   |     ActiveRecord Lab (Zeb)  | Sinatra Relationships (Zeb)
+**Training** | Tunely | Sinatra Code Study + Ruby Grandma Exercise  | Carmen Sandiego Lab  | Complete Lab      | Sinatra Project
 
 [5-1A]: https://github.com/den-wdi-1/tunely "Tunely"
 [5-1B]: https://github.com/den-wdi-1/tunely "Tunely"
@@ -114,10 +112,10 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 [5-4D]: https://github.com/sf-wdi-29/active-record-pizza-lab "ActiveRecord Finders lab"
 [5-4E]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
 
-[5-5A]: # "Review"
+[5-5A]: # "Questions in a Hat"
 [5-5B]: # "Outcomes"
-[5-5C]: # "Questions in a Hat"
-[5-5D]: #  "Weekend Sinatra app"
+[5-5C]: # "Review"
+[5-5D]: https://github.com/sf-wdi-29/sinatra-relationships-lab "Sinatra Relationships"
 [5-5E]: #  "Weekend Sinatra app"
 -->
 #### Week 4 - Node and Express
@@ -128,7 +126,7 @@ Time | Day 1                                    | Day 2                         
 **10:30am Module 2** | Fourth of July | [Intro to Express (Zeb)][4-1B] | [Intro to Mongoose (Zeb)][4-2B] | [Lab: Views in Express (JP)][4-3B] | Outcomes (Sara)
 **1:00pm Module 3** | Fourth of July | [Building Express routes part 1 (JP)][4-1C] |[Express Reteach][4-2CA] & [Data Organization in Mongo (JP)][4-2C] |[Lab: ToDo List App (Zeb)][4-3C] | [Developer-led Review (Zeb)][4-4C]
 **2:30pm Module 4** | Fourth of July | [Building Express Routes part 2 (JP)][4-1D] | [Lab: Full Stack JavaScript (JP)][4-2D]|  [Ajax OOP Refactor Lab (Zeb)][4-3D] | [Personal API Lab (Zeb)][4-4D]
-**Homework** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + [CodeSchool Ruby Tutorial][4-4E]
+**Training** | Fourth of July | [More Express Routes][4-1E] | [Finish Lab][4-2D]   |   Finish Labs | Finish Lab + [CodeSchool Ruby Tutorial][4-4E]
 
 
 [4-1A]: https://github.com/den-wdi-1/nodejs "Intro to Node.js"
