@@ -89,6 +89,14 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 **2:30pm Module 4** | [Tune.ly][5-1D] |Sinatra Controllers + Routes (JP)  | SQL (Zeb)   |     ActiveRecord Lab (Zeb)  | Sinatra Relationships (Zeb)
 **Training** | Tunely | Sinatra Code Study + Ruby Grandma Exercise  | Carmen Sandiego Lab  | Complete Lab      | Sinatra Project
 
+Weekly goals:
+- Last hurrah to full stack JavaScript 
+- Pivot our knowledge of RESTful APIs to apply in the Ruby World
+  - Create Single Resource RESTful Applications
+  - Use ActiveRecord
+- Understand enough SQL to use ActiveRecord
+  - Basics of tables and queries
+
 [5-1A]: https://github.com/den-wdi-1/tunely "Tunely"
 [5-1B]: https://github.com/den-wdi-1/tunely "Tunely"
 [5-1C]: https://github.com/den-wdi-1/tunely "Tunely"
