@@ -83,8 +83,8 @@ Extra Resources:
 
 Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:00am Module 1** | [Tune.ly][5-1A] | Intro to Ruby (Zeb) | OOP Ruby (JP) |  ActiveRecord Models (JP)      | Questions in a Hat (JP)
-**10:30am Module 2** | [Tune.ly][5-1B] |  Intro to Ruby Lab (Zeb) | OOP Ruby Lab (JP)   |    ActiveRecord Models Lab (JP)     | Outcomes
+**9:00am Module 1** | [Tune.ly][5-1A] | [Intro to Ruby (Zeb)][5-2A] | OOP Ruby (JP) |  ActiveRecord Models (JP)      | Questions in a Hat (JP)
+**10:30am Module 2** | [Tune.ly][5-1B] |  [Intro to Ruby Lab (Zeb)][5-2B] | OOP Ruby Lab (JP)   |    ActiveRecord Models Lab (JP)     | Outcomes
 **1:00pm Module 3** | [Tune.ly][5-1C] |  Sinatra View Templating (JP)| Data Modeling (Zeb) | ActiveRecord (Zeb)       | Dev-Led Review (Zeb)
 **2:30pm Module 4** | [Tune.ly][5-1D] |Sinatra Controllers + Routes (JP)  | SQL (Zeb)   |     ActiveRecord Lab (Zeb)  | Sinatra Relationships (Zeb)
 **Training** | Tunely | Sinatra Code Study + Ruby Grandma Exercise  | Carmen Sandiego Lab  | Complete Lab      | Sinatra Project
@@ -101,13 +101,13 @@ Weekly goals:
 [5-1B]: https://github.com/den-wdi-1/tunely "Tunely"
 [5-1C]: https://github.com/den-wdi-1/tunely "Tunely"
 [5-1D]: https://github.com/den-wdi-1/tunely "Tunely"
-<!--
-[5-2A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
-[5-2B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
-[5-2C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
-[5-2D]: https://github.com/sf-wdi-29/sinatra-controllers-and-routes "Controllers & RESTful Routing"
-[5-2E]: https://github.com/sf-wdi-29/deaf-grandma  "Sinatra Code Study + Ruby Grandma Exercise"
 
+[5-2A]: https://github.com/den-wdi-1/intro-ruby "Intro to Ruby"
+[5-2B]: https://github.com/den-wdi-1/ruby-koans "Intro to Ruby Lab"
+[5-2C]: https://github.com/den-wdi-1/intro-sinatra "Sinatra Setup + Layouts & Templating"
+[5-2D]: https://github.com/den-wdi-1/sinatra-controllers-and-routes "Controllers & RESTful Routing"
+[5-2E]: https://github.com/den-wdi-1/deaf-grandma  "Sinatra Code Study + Ruby Grandma Exercise"
+<!--
 [5-3A]: https://github.com/sf-wdi-29/ruby-oop "Ruby OOP Lesson"
 [5-3B]: https://github.com/sf-wdi-29/monkey-oop "Ruby OOP Lab"
 [5-3C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
