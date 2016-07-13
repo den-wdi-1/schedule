@@ -85,9 +85,9 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
 **9:00am Module 1** | [Tune.ly][5-1A] | [Intro to Ruby (Zeb)][5-2A] | [OOP Ruby (JP)][5-3A]  |  ActiveRecord Models (JP)      | Questions in a Hat (JP)
 **10:30am Module 2** | [Tune.ly][5-1B] |  [Intro to Ruby Lab (Zeb)][5-2B] | [OOP Ruby Lab (JP)][5-3B]  |    ActiveRecord Models Lab (JP)     | Outcomes
-**1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)| Data Modeling (Zeb) | ActiveRecord (Zeb)       | Dev-Led Review (Zeb)
-**2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | SQL (Zeb)   |     ActiveRecord Lab (Zeb)  | Sinatra Relationships (Zeb)
-**Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) | Carmen Sandiego Lab  | Complete Lab      | Sinatra Project
+**1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)| [Data Modeling (Zeb)][5-3C] | ActiveRecord (Zeb)       | Dev-Led Review (Zeb)
+**2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | [SQL (Zeb)][5-3D]   |     ActiveRecord Lab (Zeb)  | Sinatra Relationships (Zeb)
+**Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) | [Carmen Sandiego Lab][5-3E]  | Complete Lab      | Sinatra Project
 
 Weekly goals:
 - Last hurrah to full stack JavaScript 
@@ -110,9 +110,9 @@ Weekly goals:
 
 [5-3A]: https://github.com/den-wdi-1/ruby-oop "Ruby OOP Lesson"
 [5-3B]: https://github.com/den-wdi-1/monkey-oop "Ruby OOP Lab"
-[5-3C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
-[5-3D]: https://github.com/sf-wdi-29/sql "SQL Select Lab"
-[5-3E]: https://github.com/sf-wdi-29/sql-carmen-sandiego "SQL"
+[5-3C]: https://github.com/den-wdi-1/data-modeling "Relational Data Modeling"
+[5-3D]: https://github.com/den-wdi-1/sql "SQL Select Lab"
+[5-3E]: https://github.com/den-wdi-1/sql-carmen-sandiego "SQL"
 <!--
 [5-4A]: https://github.com/sf-wdi-29/active-record-models "Building Models with ActiveRecord and Migrations"
 [5-4B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
