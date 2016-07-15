@@ -83,10 +83,10 @@ Extra Resources:
 
 Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:00am Module 1** | [Tune.ly][5-1A] | [Intro to Ruby (Zeb)][5-2A] | [OOP Ruby (JP)][5-3A]  |  [ActiveRecord Models (JP)][5-4A]      | Questions in a Hat (JP)
+**9:00am Module 1** | [Tune.ly][5-1A] | [Intro to Ruby (Zeb)][5-2A] | [OOP Ruby (JP)][5-3A]  |  [ActiveRecord Models (JP)][5-4A]      | [Questions in a Hat (JP)][5-5A]
 **10:30am Module 2** | [Tune.ly][5-1B] |  [Intro to Ruby Lab (Zeb)][5-2B] | [OOP Ruby Lab (JP)][5-3B]  | [ActiveRecord Models Lab (JP)][5-4B]     | Outcomes
 **1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)| [Data Modeling (Zeb)][5-3C] | [ActiveRecord Command Line (Zeb)][5-4C]       | Dev-Led Review (Zeb)
-**2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | [SQL (Zeb)][5-3D]   |     [ActiveRecord Lab (Zeb)][5-4D]  | Sinatra Relationships (Zeb)
+**2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | [SQL (Zeb)][5-3D]   |     [ActiveRecord Lab (Zeb)][5-4D]  | [Tunr Relationships (JP)][5-5D]
 **Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) | [Carmen Sandiego Lab][5-3E]  | Complete Lab      | Sinatra Project
 
 Weekly goals:
@@ -119,14 +119,13 @@ Weekly goals:
 [5-4C]: https://github.com/den-wdi-1/active-record-pizza-lab "ActiveRecord CRUD with Command Line"
 [5-4D]: https://github.com/den-wdi-1/active-record-pizza-lab "ActiveRecord Finders lab"
 
-<!--
-[5-5A]: # "Questions in a Hat"
+[5-5A]: https://github.com/den-wdi-1/questions-in-a-hat "Questions in a Hat"
 [5-5B]: # "Outcomes"
 [5-5C]: # "Review"
-[5-5D]: https://github.com/sf-wdi-29/sinatra-relationships-lab "Sinatra Relationships"
+[5-5D]: https://github.com/den-wdi-1/tunr-relationships "Tunr Relationships"
 [5-5E]: #  "Weekend Sinatra app"
-[5-5F]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
--->
+[5-5F]: # 
+<!-- https://github.com/den-wdi-1/project-2 "Sinatra Project" -->
 #### Week 4 - Node and Express
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
