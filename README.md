@@ -55,18 +55,19 @@
 -->
 
 #### Week 6 - Project 2: Sinatra Single-Resource App
-<!--
+
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Username Generator (Ilias)][6-1A]  | Project 2 |  | Project 2  |      [Project 2 Presentations][6-5A]      |
+ **9:00am Module 1** | [Username Generator (JP)][6-1A]  | Project 2 |  | Project 2  |      Project 2 Presentations      |
  **10:30am Module 2** | [Go Fish game (Alex)][6-1B]    | Project 2  | Project 2  | Project 2      | Outcomes     |
- **1:00pm Module 3** |  Project 2    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations  |
+ **1:00pm Module 3** |  [Project 2][6-1C]    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations  |
 **2:30pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
 **Homework** | Homework | Homework | Homework | Homework |  [Rails for Zombies (spend ~2  hours)](http://railsforzombies.org/levels/1) |
 
-[6-1A]: https://github.com/sf-wdi-29/username-generator "Username Generator"
-[6-1B]: https://github.com/sf-wdi-29/go-fish-card-game "Go Fish Game"
-[6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"
+[6-1A]: https://github.com/den-wdi-1/username-generator "Username Generator"
+[6-1B]: https://github.com/den-wdi-1/go-fish-card-game "Go Fish Game"
+[6-1C]: https://github.com/den-wdi-1/project-2 "Project 2"
+<!--[6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"-->
 
 
 Extra Resources:
@@ -78,7 +79,6 @@ Extra Resources:
 * [Front-end Assets](https://github.com/sf-wdi-29/front-end-assets/blob/master/readme.md)
 
 
--->
 #### Week 5 - Ruby and Sinatra
 
 Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
@@ -87,7 +87,7 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 **10:30am Module 2** | [Tune.ly][5-1B] |  [Intro to Ruby Lab (Zeb)][5-2B] | [OOP Ruby Lab (JP)][5-3B]  | [ActiveRecord Models Lab (JP)][5-4B]     | Outcomes
 **1:00pm Module 3** | [Tune.ly][5-1C] |  [Sinatra Intro Lesson][5-2C] (JP)| [Data Modeling (Zeb)][5-3C] | [ActiveRecord Command Line (Zeb)][5-4C]       | Dev-Led Review (Zeb)
 **2:30pm Module 4** | [Tune.ly][5-1D] | [Sinatra Intro Lesson][5-2C] (JP)  | [SQL (Zeb)][5-3D]   |     [ActiveRecord Lab (Zeb)][5-4D]  | [Tunr Relationships (JP)][5-5D]
-**Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) | [Carmen Sandiego Lab][5-3E]  | Complete Lab      | Sinatra Project
+**Training** | Tunely | [Message in a Bottle + Sinatra Code Study Exercise][5-2E] (JP) | [Carmen Sandiego Lab][5-3E]  | Complete Lab      | [Sinatra Project / Project 2][5-5E]
 
 Weekly goals:
 - Last hurrah to full stack JavaScript 
@@ -123,9 +123,7 @@ Weekly goals:
 [5-5B]: # "Outcomes"
 [5-5C]: # "Review"
 [5-5D]: https://github.com/den-wdi-1/tunr-relationships "Tunr Relationships"
-[5-5E]: #  "Weekend Sinatra app"
-[5-5F]: # 
-<!-- https://github.com/den-wdi-1/project-2 "Sinatra Project" -->
+[5-5E]: https://github.com/den-wdi-1/project-2 "Project 2"
 #### Week 4 - Node and Express
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
