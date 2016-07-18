@@ -62,7 +62,7 @@
  **10:30am Module 2** | [Go Fish game (Alex)][6-1B]    | Project 2  | Project 2  | Project 2      | Outcomes     |
  **1:00pm Module 3** |  [Project 2][6-1C]    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations  |
 **2:30pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
-**Homework** | Homework | Homework | Homework | Homework |  [Rails for Zombies](http://railsforzombies.org/levels/1) |
+**Training** | Project 2 | Project 2 | Project 2 | Project 2 |  [Rails for Zombies](http://railsforzombies.org/levels/1) |
 
 [6-1A]: https://github.com/den-wdi-1/username-generator "Username Generator"
 [6-1B]: https://github.com/den-wdi-1/go-fish-card-game "Go Fish Game"
