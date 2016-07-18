@@ -16,10 +16,10 @@
 <!--
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am Module 1** | [Ruby Pair Exercises (Alex)][7-1A]  | [Intro to Rails (Alex)][7-2A] | [Asset Pipeline Poem (Ben)][7-3A] | [Auth (Ilias)][7-4A]  |[Review (Alex)][7-5A]               |
- **10:45am Module 2** | [OOP Wheel of Fortune (Alex)][7-1B]    | [Controllers and Routes (Alex)][7-2B] | [Rails Bog App (Ben)][7-3B] | [Auth Lab (Ilias)][7-4B]       | [Outcomes (Neda)][7-5B]    |
- **1:30pm Module 3** | [Rspec and TDD (Ilias)][7-1C]   |  [Layouts and Partials (Ben)][7-2C]| [Validations and Errors (Ilias)][7-3C] | [Many to Many (Ben)][7-4C] |  [ Questions in a Hat (Ilias)][7-5C]   |
-**3:00pm Module 4** | [Rspec and TDD Lab (Ilias)][7-1D]     | [Rock n Rails (Ben)][7-2D] | [Validations and Errors Lab (Ilias)][7-3D] | [Many to Many (Ben)][7-4D] |  [Library App Weekend Lab (Annabelle)][7-5D]    |
+ **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | [Intro to Rails (Zeb)][7-2A] | [Asset Pipeline Poem (Ben)][7-3A] | [Auth (Ilias)][7-4A]  |[Review (Alex)][7-5A]               |
+ **10:30am Module 2** | [OOP Wheel of Fortune (JP)][7-1B]    | [Controllers and Routes (Zeb)][7-2B] | [Rails Bog App (Ben)][7-3B] | [Auth Lab (Ilias)][7-4B]       | [Outcomes (Neda)][7-5B]    |
+ **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  [Layouts and Partials (Zeb)][7-2C]| [Validations and Errors (Ilias)][7-3C] | [Many to Many (Ben)][7-4C] |  [ Questions in a Hat (Ilias)][7-5C]   |
+**2:30pm Module 4** | [Rspec and TDD Lab (JP)][7-1D]     | [Rock n Rails (JP)][7-2D] | [Validations and Errors Lab (Ilias)][7-3D] | [Many to Many (Ben)][7-4D] |  [Library App Weekend Lab (Annabelle)][7-5D]    |
 **Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | [Library App Weekend Lab (Annabelle)][7-5E] |
 
 
