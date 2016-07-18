@@ -60,14 +60,15 @@
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Module 1** | [Username Generator (JP)][6-1A]  | Project 2 | Project 2 | Project 2  |   Retrospective / Project 2 Presentations      |
  **10:30am Module 2** | [Go Fish game (Zeb)][6-1B]    | Project 2  | Project 2  | Project 2      | Outcomes     |
- **1:00pm Module 3** |  [Project 2][6-1C]    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations  |
+ **1:00pm Module 3** |  [Project 2][6-1C]    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations / [Create Issues (Zeb)][6-5C]  |
 **2:30pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
-**Training** | Project 2 | Project 2 | Project 2 | Project 2 |  [Rails for Zombies](http://railsforzombies.org/levels/1) |
+**Training** | Project 2 | Project 2 | Project 2 | Project 2 |  Fix Issues / [Rails for Zombies (Spend ~2 hours)](http://railsforzombies.org/levels/1) |
 
 [6-1A]: https://github.com/den-wdi-1/username-generator "Username Generator"
 [6-1B]: https://github.com/den-wdi-1/go-fish-card-game "Go Fish Game"
 [6-1C]: https://github.com/den-wdi-1/project-2 "Project 2"
-<!-- Rails for Zombies: Spend 2 hours -->
+
+[6-5C]: https://github.com/den-wdi-1/create-an-issue-project2 "Create Issues"
 <!--[6-5A]: https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md "second projects"-->
 
 
