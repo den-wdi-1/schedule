@@ -59,7 +59,7 @@
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Module 1** | [Username Generator (JP)][6-1A]  | Project 2 | Project 2 | Project 2  |   Retrospective / Project 2 Presentations      |
- **10:30am Module 2** | [Go Fish game (Alex)][6-1B]    | Project 2  | Project 2  | Project 2      | Outcomes     |
+ **10:30am Module 2** | [Go Fish game (Zeb)][6-1B]    | Project 2  | Project 2  | Project 2      | Outcomes     |
  **1:00pm Module 3** |  [Project 2][6-1C]    |   Project 2  |  Project 2   |  Project 2   | Project 2 Presentations  |
 **2:30pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
 **Training** | Project 2 | Project 2 | Project 2 | Project 2 |  [Rails for Zombies](http://railsforzombies.org/levels/1) |
