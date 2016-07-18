@@ -309,3 +309,7 @@ Time  | Monday - Thursday  | Friday
 1:00  | Module 3           | Review
 2:30  | Module 4           | Begin Weekend Lab
 4:00  | One-on-ones        | Rest
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
