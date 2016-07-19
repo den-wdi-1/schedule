@@ -23,10 +23,10 @@
 **Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | [Library App Weekend Lab (Annabelle)][7-5E] |
 
 
-[7-1A]:  https://github.com/sf-wdi-29/ruby-drills "Ruby Pair Exercises"
-[7-1B]:  https://github.com/sf-wdi-29/wheel_of_fortune "OOP Wheel of Fortune" 
-[7-1C]: https://github.com/sf-wdi-29/rspec "Rspec and TDD Lesson"
-[7-1D]: https://github.com/sf-wdi-29/rspec "Rspec and TDD Lab"
+[7-1A]:  https://github.com/den-wdi-1/ruby-drills "Ruby Pair Exercises"
+[7-1B]:  https://github.com/den-wdi-1/wheel_of_fortune "OOP Wheel of Fortune" 
+[7-1C]: https://github.com/den-wdi-1/rspec "Rspec and TDD Lesson"
+[7-1D]: https://github.com/den-wdi-1/car-racing-lab "Rspec and TDD Lab"
 [7-1E]: # "Finish Labs"
 
 [7-2A]: https://github.com/sf-wdi-29/intro-to-rails "Intro to Rails"
