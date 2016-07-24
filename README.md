@@ -16,7 +16,7 @@
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | Intro to Rails (Zeb) Asset Pipeline Poem (JP) | Auth (Zeb)  |Consultant-Led Review (JP)             |
+ **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | Intro to Rails (Zeb) | Asset Pipeline Poem (JP) | Auth (Zeb)  |Consultant-Led Review (JP)             |
  **10:30am Module 2** | [OOP Wheel of Fortune (JP)][7-1B]    | Controllers and Routes (Zeb) | Rails Bog App (JP) | Auth Lab (Zeb)       | Outcomes (Sara)    |
  **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  Layouts and Partials (Zeb)| Validations and Errors (Zeb) | Many to Many (JP) |  Dev-Led Review (Zeb)   |
 **2:30pm Module 4** | [Rspec and TDD Lab (JP)][7-1D]     | Rock n Rails (JP) | Validations and Errors Lab (Zeb) | Many to Many (JP) |  Library App Weekend Lab (JP)    |
