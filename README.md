@@ -13,15 +13,14 @@
 ## Unit 2: The Server
 
 #### Week 7 - Ruby on Rails
-<!--
+
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | [Intro to Rails (Zeb)][7-2A] | [Asset Pipeline Poem (Ben)][7-3A] | [Auth (Ilias)][7-4A]  |[Review (Alex)][7-5A]               |
- **10:30am Module 2** | [OOP Wheel of Fortune (JP)][7-1B]    | [Controllers and Routes (Zeb)][7-2B] | [Rails Bog App (Ben)][7-3B] | [Auth Lab (Ilias)][7-4B]       | [Outcomes (Neda)][7-5B]    |
- **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  [Layouts and Partials (Zeb)][7-2C]| [Validations and Errors (Ilias)][7-3C] | [Many to Many (Ben)][7-4C] |  [ Questions in a Hat (Ilias)][7-5C]   |
-**2:30pm Module 4** | [Rspec and TDD Lab (JP)][7-1D]     | [Rock n Rails (JP)][7-2D] | [Validations and Errors Lab (Ilias)][7-3D] | [Many to Many (Ben)][7-4D] |  [Library App Weekend Lab (Annabelle)][7-5D]    |
-**Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | [Library App Weekend Lab (Annabelle)][7-5E] |
-
+ **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | Intro to Rails (Zeb) Asset Pipeline Poem (JP) | Auth (Zeb)  |Consultant-Led Review (JP)             |
+ **10:30am Module 2** | [OOP Wheel of Fortune (JP)][7-1B]    | Controllers and Routes (Zeb) | Rails Bog App (JP) | Auth Lab (Zeb)       | Outcomes (Sara)    |
+ **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  Layouts and Partials (Zeb)| Validations and Errors (Zeb) | Many to Many (JP) |  Dev-Led Review (Zeb)   |
+**2:30pm Module 4** | [Rspec and TDD Lab (JP)][7-1D]     | Rock n Rails (JP) | Validations and Errors Lab (Zeb) | Many to Many (JP) |  Library App Weekend Lab (JP)    |
+**Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | Library App Weekend Lab (JP) |
 
 [7-1A]:  https://github.com/den-wdi-1/ruby-drills "Ruby Pair Exercises"
 [7-1B]:  https://github.com/den-wdi-1/wheel_of_fortune "OOP Wheel of Fortune" 
@@ -29,6 +28,7 @@
 [7-1D]: https://github.com/den-wdi-1/car-racing-lab "Rspec and TDD Lab"
 [7-1E]: # "Finish Labs"
 
+<!--
 [7-2A]: https://github.com/sf-wdi-29/intro-to-rails "Intro to Rails"
 [7-2B]: https://github.com/sf-wdi-29/rails-controllers-and-routes "Controllers & Routes"
 [7-2C]: https://github.com/sf-wdi-29/rails-layouts-and-partials "Layouts & Partials"
@@ -47,9 +47,9 @@
 [7-4D]: https://github.com/sf-wdi-29/rails-many-to-many "Many to Many"
 [7-4E]: # "Finish Labs"
 
-[7-5A]: # "Review"
+[7-5A]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
 [7-5B]: # "Outcomes"
-[7-5C]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
+[7-5C]: # "Review"
 [7-5D]: https://github.com/sf-wdi-29/library-app "Library App"
 [7-5E]: https://github.com/sf-wdi-29/library-app "Library App"
 -->
