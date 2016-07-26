@@ -30,7 +30,7 @@
 
 [7-2A]: https://github.com/den-wdi-1/intro-to-rails "Intro to Rails"
 [7-2B]: https://github.com/den-wdi-1/rails-controllers-and-routes "Controllers & Routes"
-[7-2C]: https://github.comden-wdi-1/rails-layouts-and-partials "Layouts & Partials"
+[7-2C]: https://github.com/den-wdi-1/rails-layouts-and-partials "Layouts & Partials"
 [7-2D]: https://github.com/den-wdi-1/rock-n-rails "Rock n Rails"
 
 <!--
