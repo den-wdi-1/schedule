@@ -8,7 +8,7 @@
 
 #### Week 9 - Project 3: Group Project
 
-#### Week 8 - Full-Stack JS Review and Security Deep Dive
+#### Week 8 - Project Vagabond, Group Work, and Misc Tools
 
 ## Unit 2: The Server
 
