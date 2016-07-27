@@ -16,11 +16,19 @@
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | [Intro to Rails (Zeb)][7-2A] | [Asset Pipeline Poem (JP)][7-3A] | Auth (Zeb)  |Consultant-Led Review (JP)             |
+ **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | [Intro to Rails (Zeb)][7-2A] |  [Rails Asset Pipeline][7-3AA] & [Asset Pipeline Poem (JP)][7-3A] | Auth (Zeb)  |Consultant-Led Review (JP)             |
  **10:30am Module 2** | [OOP Wheel of Fortune (JP)][7-1B]    | [Controllers and Routes (Zeb)][7-2B] | [Rails Bog App (JP)][7-3B] | Auth Lab (Zeb)       | Outcomes (Sara)    |
  **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  [Layouts and Partials (Zeb)][7-2C]| [Validations and Errors (Zeb)][7-3C] | Many to Many (JP) |  Dev-Led Review (Zeb)   |
 **2:30pm Module 4** | [Rspec and TDD Lab (JP)][7-1D]     | [Rock n Rails (JP)][7-2D] | [Validations and Errors Lab (Zeb)][7-3D] | Many to Many (JP) |  Library App Weekend Lab (JP)    |
 **Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | Library App Weekend Lab (JP) |
+
+Weekly Goals:
+- Practice Ruby Programming
+- Create a Rails App
+- Understand Laytouts and Partials in Rails
+- Understand validating data in an application
+- Build a basic authentication system
+- Build Many-to-Many relationships
 
 [7-1A]:  https://github.com/den-wdi-1/ruby-drills "Ruby Pair Exercises"
 [7-1B]:  https://github.com/den-wdi-1/wheel_of_fortune "OOP Wheel of Fortune" 
@@ -33,6 +41,7 @@
 [7-2C]: https://github.com/den-wdi-1/rails-layouts-and-partials "Layouts & Partials"
 [7-2D]: https://github.com/den-wdi-1/rock-n-rails "Rock n Rails"
 
+[7-3AA]: https://github.com/den-wdi-1/rails-asset-pipeline "Rails Asset Pipeline"
 [7-3A]: https://github.com/den-wdi-1/asset-pipeline-poem "Asset Pipeline"
 [7-3B]: https://github.com/den-wdi-1/rails-bog-app "Bog App"
 [7-3C]: https://github.com/den-wdi-1/rails-validations-errors "Validations and Errors"
