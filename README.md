@@ -45,7 +45,7 @@ Weekly Goals:
 [7-3A]: https://github.com/den-wdi-1/asset-pipeline-poem "Asset Pipeline"
 [7-3B]: https://github.com/den-wdi-1/rails-bog-app "Bog App"
 [7-3C]: https://github.com/den-wdi-1/rails-validations-errors "Validations and Errors"
-[7-3D]: https://github.comden-wdi-1/rails-validations-errors-lab "Validations and Errors Lab"
+[7-3D]: https://github.com/den-wdi-1/rails-validations-errors-lab "Validations and Errors Lab"
 [7-3E]: # "Finish Labs"
 <!--
 [7-4A]: https://github.com/sf-wdi-29/rails-auth "Auth"
