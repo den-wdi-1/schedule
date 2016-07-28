@@ -54,7 +54,7 @@ Weekly Goals:
 [7-4D]: https://github.com/sf-wdi-29/rails-many-to-many "Many to Many"
 [7-4E]: # "Finish Labs"
 
-<--
+<!--
 [7-5A]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
 [7-5B]: # "Outcomes"
 [7-5C]: # "Review"
