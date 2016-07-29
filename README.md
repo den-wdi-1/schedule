@@ -18,7 +18,7 @@
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:00am Module 1** | [Ruby Pair Exercises (JP)][7-1A]  | [Intro to Rails (Zeb)][7-2A] |  [Rails Asset Pipeline][7-3AA] & [Asset Pipeline Poem (JP)][7-3A] | [Auth (Zeb)][7-4A]  |[Consultant-Led Review (JP)][7-5A]            |
  **10:30am Module 2** | [OOP Wheel of Fortune (JP)][7-1B]    | [Controllers and Routes (Zeb)][7-2B] | [Rails Bog App (JP)][7-3B] | [Auth Lab (Zeb)][7-4B]       | Outcomes (Sara)    |
- **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  [Layouts and Partials (Zeb)][7-2C]| [Validations and Errors (Zeb)][7-3C] | [Many to Many (JP)][7-4C] |  Dev-Led Review (Zeb)   |
+ **1:00pm Module 3** | [Rspec and TDD (Zeb)][7-1C]   |  [Layouts and Partials (Zeb)][7-2C]| [Validations and Errors (Zeb)][7-3C] | [Many to Many (JP)][7-4C] |  [Dev-Led Review (Zeb)][7-5C]   |
 **2:30pm Module 4** | [Rspec and TDD Lab (JP)][7-1D]     | [Rock n Rails (JP)][7-2D] | [Validations and Errors Lab (Zeb)][7-3D] | [Many to Many Lab (JP)][7-4D] |  [Library App Weekend Lab (JP)][7-5D]    |
 **Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | [Library App Weekend Lab (JP)][7-5E] |
 
