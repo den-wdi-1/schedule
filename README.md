@@ -56,7 +56,7 @@ Weekly Goals:
 
 [7-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
 [7-5B]: # "Outcomes"
-[7-5C]: # "Review"
+[7-5C]: https://github.com/den-wdi-1/rails-review "Review"
 [7-5D]: https://github.com/den-wdi-1/library-app "Library App"
 [7-5E]: https://github.com/den-wdi-1/library-app "Library App"
 
