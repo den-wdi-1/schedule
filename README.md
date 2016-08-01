@@ -16,7 +16,7 @@ Time | Day 1                                      | Day 2                       
  **10:30am Module 2** | [Linked Lists (Zeb)][8-1B] | Project Vagabond  | Project Vagabond | Project Vagabond | Outcomes
 **1:00pm Module 3** | [ Trees (JP)][8-1C] | Project Vagabond | Project Vagabond | Project Vagabond |  Project 3 Pitches
 **2:30pm Module 4** | [Sass and CSS Precompilers (JP)][8-1D] |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
-**Homework** | Project Vagabond | Project Vagabond | Project Vagabond | Prepare Project 3 Pitch | [Project 3][8-5E]
+**Homework** | Select CS Exercises | Project Vagabond | Project Vagabond | Prepare Project 3 Pitch | [Project 3][8-5E]
 
 [8-1A]: https://github.com/den-wdi-1/stacks-and-queues "Stacks and Queues"
 
