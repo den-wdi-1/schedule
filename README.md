@@ -13,20 +13,20 @@
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** |  [Stacks and Queues (Zeb)][8-1A] | [Linked Lists (Zeb)][8-2A]  | Project Vagabond | Project Vagabond | Project Vagabond | Presentations
- **10:30am Module 2** | Moar Stacks and Queues | [Team-Client Meeting][8-2B]  | Project Vagabond | Project Vagabond | Project Vagabond
-**1:00pm Module 3** | [ Trees (JP)][8-1C] | Project Vagabond | Project Vagabond | Project Vagabond |  Project 3 Pitches
-**2:30pm Module 4** | [Sass and CSS Precompilers (JP)][8-1D] |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
+ **10:30am Module 2** | Moar Stacks and Queues | [Sass and CSS Precompilers (JP)][8-2B]  | Project Vagabond | Project Vagabond | Project Vagabond
+**1:00pm Module 3** | [ Trees (JP)][8-1C] | [Team-Client Meeting][8-2C] | Project Vagabond | Project Vagabond |  Project 3 Pitches
+**2:30pm Module 4** | Moar Trees |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
 **Homework** | Select CS Exercises | Project Vagabond | Project Vagabond | Prepare Project 3 Pitch | [Project 3][8-5E]
 
 [8-1A]: https://github.com/den-wdi-1/stacks-and-queues "Stacks and Queues"
 
 [8-1C]: https://github.com/den-wdi-1/trees "Trees"
 
-[8-1D]: https://github.com/den-wdi-1/sass-intro "Sass"
-
 [8-2A]: https://github.com/den-wdi-1/linked-lists "Linked Lists"
 
-[8-2B]: https://github.com/den-wdi-1/project-vagabond "Project Vagabond"
+[8-2B]: https://github.com/den-wdi-1/sass-intro "Sass"
+
+[8-2C]: https://github.com/den-wdi-1/project-vagabond "Project Vagabond"
 <!--
 [8-4E]: https://github.com/den-wdi-1/project-03/blob/master/lightning-pitch.md "Project 3 Pitch"
 -->
