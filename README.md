@@ -13,7 +13,7 @@
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** |  [Stacks and Queues (Zeb)][8-1A] | [Linked Lists (Zeb)][8-2A]  | Project Vagabond | Project Vagabond | Project Vagabond | Presentations
- **10:30am Module 2** | Moar Stacks and Queues | [Sass and CSS Precompilers (JP)][8-2B]  | Project Vagabond | Project Vagabond | Project Vagabond
+ **10:30am Module 2** | Moar Stacks and Queues | [Sass and CSS Precompilers (JP)][8-2B]  | Project Vagabond | Project Vagabond | Project Vagabond Retro and Presentations
 **1:00pm Module 3** | [ Trees (JP)][8-1C] | [Team-Client Meeting][8-2C] | Project Vagabond | Project Vagabond |  Project 3 Pitches
 **2:30pm Module 4** | Moar Trees |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
 **Homework** | Select CS Exercises | Project Vagabond | Project Vagabond | Prepare Project 3 Pitch | [Project 3][8-5E]
