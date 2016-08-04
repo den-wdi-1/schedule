@@ -8,6 +8,19 @@
 
 #### Week 9 - Project 3: Group Project
 
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Module 1** |  String Matching (JP) | Project 3 | Project 3 | Project 3 | Auth Math (Zeb) 
+ **10:30am Module 2** | Outcomes  | Project 3  | Project 3 | Project 3 | Outcomes
+**1:00pm Module 3** | Moar String Matching (JP) | Project 3 | Project 3 | Project 3 |  Project 3 Presentations
+**2:30pm Module 4** | Unit Testing with Rspec-Rails (JP) |  Project 3 |  Project 3 | Project 3 |  Rails Review | 
+**Homework** | Project 3 | Project 3 | Algorithm Practice | Project 3 | [Look over the Angular Documentation][9-5E] + [Check out this blog][9-5F] + [Check out this Lab][9-5G]
+
+
+[9-5E]: https://docs.angularjs.org/guide/introduction "Angular Reading"
+[9-5F]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
+[9-5G]: https://github.com/den-wdi-1/intro_angular_challenges
+
 #### Week 8 - Project Vagabond, Group Work
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
@@ -15,7 +28,7 @@ Time | Day 1                                      | Day 2                       
 **9:00am Module 1** |  [Stacks and Queues (Zeb)][8-1A] | [Linked Lists (Zeb)][8-2A]  | Project Vagabond | Project Vagabond | Project Vagabond | Presentations
  **10:30am Module 2** | Moar Stacks and Queues | [Sass and CSS Precompilers (JP)][8-2B]  | Project Vagabond | Project Vagabond | Project Vagabond Retro and Presentations
 **1:00pm Module 3** | [ Trees (JP)][8-1C] | [Team-Client Meeting][8-2C] | Project Vagabond | Project Vagabond |  Project 3 Pitches
-**2:30pm Module 4** | Moar Trees |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
+**2:30pm Module 4** | Moar Trees |  Project Vagabond |  Project Vagabond |  Project Vagabond | [Algorithm Practice][8-4E]
 **Homework** | Select CS Exercises | Project Vagabond | Project Vagabond | Prepare Project 3 Pitch | [Project 3][8-5E]
 
 [8-1A]: https://github.com/den-wdi-1/stacks-and-queues "Stacks and Queues"
@@ -27,11 +40,8 @@ Time | Day 1                                      | Day 2                       
 [8-2B]: https://github.com/den-wdi-1/sass-intro "Sass"
 
 [8-2C]: https://github.com/den-wdi-1/project-vagabond "Project Vagabond"
-<!--
-[8-4E]: https://github.com/den-wdi-1/project-03/blob/master/lightning-pitch.md "Project 3 Pitch"
--->
+[8-4E]: https://github.com/den-wdi-1/high_card "High Card"
 [8-5E]: https://github.com/den-wdi-1/project-03 "Project 3"
-
 ## Unit 2: The Server
 
 #### Week 7 - Ruby on Rails
