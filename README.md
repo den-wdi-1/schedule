@@ -10,13 +10,14 @@
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** |  String Matching (JP) | Project 3 | Project 3 | Project 3 | Auth Math (Zeb) 
+**9:00am Module 1** | [Unit Testing with Rspec-Rails (JP)][9-1A]  | Project 3 | Project 3 | Project 3 | Auth Math (Zeb) 
  **10:30am Module 2** | Outcomes  | Project 3  | Project 3 | Project 3 | Outcomes
-**1:00pm Module 3** | Moar String Matching (JP) | Project 3 | Project 3 | Project 3 |  Project 3 Presentations
-**2:30pm Module 4** | Unit Testing with Rspec-Rails (JP) |  Project 3 |  Project 3 | Project 3 |  Rails Review | 
-**Homework** | Project 3 | Project 3 | Algorithm Practice | Project 3 | [Look over the Angular Documentation][9-5E] + [Check out this blog][9-5F] + [Check out this Lab][9-5G]
+**1:00pm Module 3** | [String Matching (JP)][9-1C]  | Project 3 | Project 3 | Project 3 |  Project 3 Presentations
+**2:30pm Module 4** | [Moar String Matching (JP)][9-1C]  |  Project 3 |  Project 3 | Project 3 |  Rails Review | 
+**Homework** | [Project 3][8-5E] | Project 3 | Algorithm Practice | Project 3 | [Look over the Angular Documentation][9-5E] + [Check out this blog][9-5F] + [Check out this Lab][9-5G]
 
-
+[9-1A]: https://github.com/den-wdi-1/rspec-rails-testing "RSpec Rails Testing"
+[9-1C]: https://github.com/den-wdi-1/string-matching "String Matching"
 [9-5E]: https://docs.angularjs.org/guide/introduction "Angular Reading"
 [9-5F]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
 [9-5G]: https://github.com/den-wdi-1/intro_angular_challenges
