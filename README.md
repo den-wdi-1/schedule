@@ -1,10 +1,52 @@
-## Unit 3: Full-stack and Advanced Topics
+## Unit 4: Full-stack and Advanced Topics
 
 #### Week 12 - Project 4: Final Project and Interview Work
 
 #### Week 11 - Developer-chosen Electives
 
-#### Week 10 - In-depth Front-End Framework
+#### Week 10 - Angular
+<!--
+Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | [Angular Hangman (JP/Zeb)][10-2A] | [Routing (Zeb)][10-3A] | [Firebase (JP)][10-4A] | Questions in a Hat (JP)
+**10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | [Angular Hangman (JP/Zeb)][10-2B] | [Wine App (JP/Zeb)][10-3B] | [ngAnimate (Zeb)][10-4B] | [Outcomes][10-5B]
+**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | [$http and promises (Zeb)][10-2C] | [$resource (Zeb)][10-3C] | [Not-so-MEAN Express API (JP/Zeb)][10-4C] | Dev-Led Review (Zeb)
+**2:30pm Module 4** |[Directives Lab (JP/Zeb)][10-1D] | [$http LAB (JP/Zeb)][10-2D] | [Refactor Wine App (JP/Zeb)][10-3D] | [Not-so-MEAN Angular (TBD)][10-4D] | [Rapid Prototyping][10-5D]
+**Homework** | July 4th |[Finish Labs][10-1E] | ui-router vs ngRoute readings: [#1][10-2E] + [#2][10-2F] + [#3][10-2G] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
+
+[10-1A]: https://github.com/den-wdi-1/angular-intro "Intro to Angular"
+[10-1B]: https://github.com/den-wdi-1/angular-intro "Intro to Angular Lab"
+[10-1C]: https://github.com/den-wdi-1/angular-directives-lesson "Directives Lesson"
+[10-1D]: https://github.com/den-wdi-1/angular-directives-lab "Directives Lab"
+[10-1E]: # "Homework"
+
+[10-2A]: https://github.com/den-wdi-1/ng-hangman "Angular Hangman"
+[10-2B]: https://github.com/den-wdi-1/ng-hangman "Angular Hangman"
+[10-2C]: https://github.com/den-wdi-1/http-workshop "$http and promises"
+[10-2D]: https://github.com/den-wdi-1/http-lab "$http lab"
+[10-2E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
+[10-2F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
+[10-2G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
+
+[10-3A]: https://github.com/den-wdi-1/angular_routing_lab "Routing"
+[10-3B]: https://github.com/den-wdi-1/angular_routing_lab "Wine App"
+[10-3C]: https://github.com/den-wdi-1/angular-resource "ngResource"
+[10-3D]: # "Book App"
+[10-3E]: # "reading"
+
+[10-4A]: https://github.com/den-wdi-1/ng-firebase "Firebase"
+[10-4B]: https://github.com/den-wdi-1/angular-animations-intro "ngAnimate"
+[10-4C]: https://github.com/den-wdi-1/express-flashcards-api "Not-so-MEAN Express API"
+[10-4D]: https://github.com/den-wdi-1/animated-cards/tree/has-directive-method "Not-so-MEAN Angular"
+
+[10-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
+[10-5B]: # "Outcomes" 
+[10-5D]: # "Dev-Led Review"
+[10-5D]: https://github.com/sf-wdi-29/rapid-prototype/blob/master/readme.md "Rapid Prototyping"
+[10-5E]: https://github.com/sf-wdi-29/rapid-prototype/blob/master/readme.md "Rapid Prototype Weekend Lab"
+[10-5F]: https://github.com/sf-wdi-29/lighting-talks "Lightning Talk Research"
+-->
+## Unit 3: Ruby on Rails and Group Work
 
 #### Week 9 - Project 3: Group Project
 
@@ -43,7 +85,6 @@ Time | Day 1                                      | Day 2                       
 [8-2C]: https://github.com/den-wdi-1/project-vagabond "Project Vagabond"
 [8-4E]: https://github.com/den-wdi-1/high_card "High Card"
 [8-5E]: https://github.com/den-wdi-1/project-03 "Project 3"
-## Unit 2: The Server
 
 #### Week 7 - Ruby on Rails
 
@@ -93,6 +134,7 @@ Weekly Goals:
 [7-5D]: https://github.com/den-wdi-1/library-app "Library App"
 [7-5E]: https://github.com/den-wdi-1/library-app "Library App"
 
+## Unit 2: The Server
 
 #### Week 6 - Project 2: Sinatra Single-Resource App
 
