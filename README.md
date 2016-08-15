@@ -12,7 +12,7 @@ Time | Day 1                           | Day 2                                  
 **10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | $http LAB (JP/Zeb) | Wine App (JP/Zeb) | ngAnimate (Zeb) | Outcomes
 **1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | Angular Hangman (JP/Zeb) | $resource (Zeb) | Not-so-MEAN Express API (JP/Zeb) | Dev-Led Review (Zeb)
 **2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | Angular Hangman (JP/Zeb) | Refactor Wine App (JP/Zeb) | Not-so-MEAN Angular (TBD) | Rapid Prototyping
-**Homework** | Finish Labs / Issues for Project 3 | Finish Labs | ui-router vs ngRoute readings: [#1][10-2E] + [#2][10-2F] + [#3][10-2G] | Finish Labs | Rapid Prototyping and Lightning Talk Research
+**Homework** | Submit Labs and CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-2E] + [#2][10-2F] + [#3][10-2G] | Finish Labs | Rapid Prototyping and Lightning Talk Research
 
 [10-1A]: https://github.com/den-wdi-1/angular-intro "Intro to Angular"
 [10-1B]: https://github.com/den-wdi-1/angular-intro "Intro to Angular Lab"
@@ -24,15 +24,15 @@ Time | Day 1                           | Day 2                                  
 [10-2B]: https://github.com/den-wdi-1/http-lab "$http lab"
 [10-2C]: https://github.com/den-wdi-1/ng-hangman "Angular Hangman"
 [10-2D]: https://github.com/den-wdi-1/ng-hangman "Angular Hangman"
-[10-2E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
-[10-2F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
-[10-2G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
+[10-2E]: https://github.com/den-wdi-1/project-3-issues
 
 [10-3A]: https://github.com/den-wdi-1/angular_routing_lab "Routing"
 [10-3B]: https://github.com/den-wdi-1/angular_routing_lab "Wine App"
 [10-3C]: https://github.com/den-wdi-1/angular-resource "ngResource"
 [10-3D]: # "Book App"
-[10-3E]: # "reading"
+[10-3E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
+[10-3F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
+[10-3G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
 [10-4A]: https://github.com/den-wdi-1/ng-firebase "Firebase"
 [10-4B]: https://github.com/den-wdi-1/angular-animations-intro "ngAnimate"
