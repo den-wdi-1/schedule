@@ -5,21 +5,21 @@
 #### Week 11 - Developer-chosen Electives
 
 #### Week 10 - Angular
-<!--
+
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | [$http and promises (Zeb)][10-2A] | [Routing (Zeb)][10-3A] | [Firebase (JP)][10-4A] | Questions in a Hat (JP)
-**10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | [$http LAB (JP/Zeb)][10-2B] | [Wine App (JP/Zeb)][10-3B] | [ngAnimate (Zeb)][10-4B] | [Outcomes][10-5B]
-**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | [Angular Hangman (JP/Zeb)][10-2C] | [$resource (Zeb)][10-3C] | [Not-so-MEAN Express API (JP/Zeb)][10-4C] | Dev-Led Review (Zeb)
-**2:30pm Module 4** |[Directives Lab (JP/Zeb)][10-1D] | [Angular Hangman (JP/Zeb)][10-2D] | [Refactor Wine App (JP/Zeb)][10-3D] | [Not-so-MEAN Angular (TBD)][10-4D] | [Rapid Prototyping][10-5D]
-**Homework** | July 4th |[Finish Labs][10-1E] | ui-router vs ngRoute readings: [#1][10-2E] + [#2][10-2F] + [#3][10-2G] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
+**9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | $http and promises (Zeb) | Routing (Zeb) | Firebase (JP) | Questions in a Hat (JP)
+**10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | $http LAB (JP/Zeb) | Wine App (JP/Zeb) | ngAnimate (Zeb) | Outcomes
+**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | Angular Hangman (JP/Zeb) | $resource (Zeb) | Not-so-MEAN Express API (JP/Zeb) | Dev-Led Review (Zeb)
+**2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | Angular Hangman (JP/Zeb) | Refactor Wine App (JP/Zeb) | Not-so-MEAN Angular (TBD) | Rapid Prototyping
+**Homework** | Finish Labs | Finish Labs | ui-router vs ngRoute readings: [#1][10-2E] + [#2][10-2F] + [#3][10-2G] | Finish Labs | Rapid Prototyping and Lightning Talk Research
 
 [10-1A]: https://github.com/den-wdi-1/angular-intro "Intro to Angular"
 [10-1B]: https://github.com/den-wdi-1/angular-intro "Intro to Angular Lab"
 [10-1C]: https://github.com/den-wdi-1/angular-directives-lesson "Directives Lesson"
 [10-1D]: https://github.com/den-wdi-1/angular-directives-lab "Directives Lab"
 [10-1E]: # "Homework"
-
+<!--
 [10-2A]: https://github.com/den-wdi-1/http-workshop "$http and promises"
 [10-2B]: https://github.com/den-wdi-1/http-lab "$http lab"
 [10-2C]: https://github.com/den-wdi-1/ng-hangman "Angular Hangman"
