@@ -8,10 +8,10 @@
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | $http and promises (Zeb) | Routing (Zeb) | Firebase (JP) | Questions in a Hat (JP)
-**10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | $http LAB (JP/Zeb) | Wine App (JP/Zeb) | ngAnimate (Zeb) | Outcomes
-**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | Angular Hangman (JP/Zeb) | $resource (Zeb) | Not-so-MEAN Express API (JP/Zeb) | Dev-Led Review (Zeb)
-**2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | Angular Hangman (JP/Zeb) | Refactor Wine App (JP/Zeb) | Not-so-MEAN Angular (TBD) | Rapid Prototyping
+**9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | [$http and promises (Zeb)][10-2A] | Routing (Zeb) | Firebase (JP) | Questions in a Hat (JP)
+**10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | [$http LAB (JP/Zeb)][10-2B] | Wine App (JP/Zeb) | ngAnimate (Zeb) | Outcomes
+**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | [Angular Hangman (JP/Zeb)][10-2C] | $resource (Zeb) | Not-so-MEAN Express API (JP/Zeb) | Dev-Led Review (Zeb)
+**2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | [Angular Hangman (JP/Zeb)][10-2D] | Refactor Wine App (JP/Zeb) | Not-so-MEAN Angular (TBD) | Rapid Prototyping
 **Homework** | Submit Labs and CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-2E] + [#2][10-2F] + [#3][10-2G] | Finish Labs | Rapid Prototyping and Lightning Talk Research
 
 [10-1A]: https://github.com/den-wdi-1/angular-intro "Intro to Angular"
