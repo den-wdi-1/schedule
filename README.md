@@ -8,11 +8,11 @@
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | [$http and promises (Zeb)][10-2A] | [Routing (Zeb)][10-3A] | Firebase (JP) | Questions in a Hat (JP)
-**10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | [$http LAB (JP/Zeb)][10-2B] | [Wine App (JP/Zeb)][10-3B] | ngAnimate (Zeb) | Outcomes
-**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | [Angular Hangman (JP/Zeb)][10-2C] | [$resource (Zeb)][10-3C] | Not-so-MEAN Express API (JP/Zeb) | Dev-Led Review (Zeb)
-**2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | [Angular Hangman (JP/Zeb)][10-2D] | [Refactor Wine App (JP/Zeb)][10-3D] | Not-so-MEAN Angular (TBD) | Rapid Prototyping
-**Homework** | Submit Labs and CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-3E] + [#2][10-3F] + [#3][10-3G] | Finish Labs | Rapid Prototyping and Lightning Talk Research
+**9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | [$http and promises (Zeb)][10-2A] | [Routing (Zeb)][10-3A] | [Firebase (JP)][10-4A] | Questions in a Hat (JP)
+**10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | [$http LAB (JP/Zeb)][10-2B] | [Wine App (JP/Zeb)][10-3B] | [ngAnimate (Zeb)][10-4B] | Outcomes
+**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | [Angular Hangman (JP/Zeb)][10-2C] | [$resource (Zeb)][10-3C] | [Almost-MEAN Cards (Zeb/JP)][10-4C] | Dev-Led Review (Zeb)
+**2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | [Angular Hangman (JP/Zeb)][10-2D] | [Refactor Wine App (JP/Zeb)][10-3D] | Almost-MEAN Cards (Zeb/JP) | Rapid Prototyping
+**Homework** | Submit Labs and CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-3E] + [#2][10-3F] + [#3][10-3G] | Finish Full-Stack Cards | Rapid Prototyping and Lightning Talk Research
 
 [10-1A]: https://github.com/den-wdi-1/angular-intro "Intro to Angular"
 [10-1B]: https://github.com/den-wdi-1/angular-intro "Intro to Angular Lab"
@@ -33,12 +33,11 @@ Time | Day 1                           | Day 2                                  
 [10-3E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
 [10-3F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [10-3G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
-<!--
+
 [10-4A]: https://github.com/den-wdi-1/ng-firebase "Firebase"
 [10-4B]: https://github.com/den-wdi-1/angular-animations-intro "ngAnimate"
-[10-4C]: https://github.com/den-wdi-1/express-flashcards-api "Not-so-MEAN Express API"
-[10-4D]: https://github.com/den-wdi-1/animated-cards/tree/has-directive-method "Not-so-MEAN Angular"
-
+[10-4C]: https://github.com/den-wdi-1/express-flashcards-api "Not-so-MEAN App"
+<!--
 [10-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
 [10-5B]: # "Outcomes" 
 [10-5D]: # "Dev-Led Review"
