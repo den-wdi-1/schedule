@@ -36,7 +36,7 @@ Time | Day 1                           | Day 2                                  
 
 [10-4A]: https://github.com/den-wdi-1/ng-firebase "Firebase"
 [10-4B]: https://github.com/den-wdi-1/angular-animations-intro "ngAnimate"
-[10-4C]: https://github.com/den-wdi-1/express-flashcards-api "Not-so-MEAN App"
+[10-4C]: https://github.com/den-wdi-1/fullStack-JS-App "Not-so-MEAN App"
 <!--
 [10-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
 [10-5B]: # "Outcomes" 
