@@ -10,7 +10,7 @@ Time | Day 1                           | Day 2                                  
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Module 1** | [Intro to Angular (Zeb)][10-1A]  | [$http and promises (Zeb)][10-2A] | [Routing (Zeb)][10-3A] | [Firebase (JP)][10-4A] | [Questions in a Hat (JP)][10-5A]
 **10:30am Module 2** | [Angular Lab (JP/Zeb)][10-1B] | [$http LAB (JP/Zeb)][10-2B] | [Wine App (JP/Zeb)][10-3B] | [ngAnimate (Zeb)][10-4B] | Outcomes
-**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | [Angular Hangman (JP/Zeb)][10-2C] | [$resource (Zeb)][10-3C] | [Almost-MEAN Cards (Zeb/JP)][10-4C] | [Dev-Led Review (Zeb)][10-5D]
+**1:00pm Module 3** | [Directives Lesson (Zeb)][10-1C] | [Angular Hangman (JP/Zeb)][10-2C] | [$resource (Zeb)][10-3C] | [Almost-MEAN Cards (Zeb/JP)][10-4C] | [Dev-Led Review (Zeb)][10-5C]
 **2:30pm Module 4** | [Directives Lab (JP/Zeb)][10-1D] | [Angular Hangman (JP/Zeb)][10-2D] | [Refactor Wine App (JP/Zeb)][10-3D] | Almost-MEAN Cards (Zeb/JP) | [Rapid Prototyping][10-5D]
 **Homework** | Submit Labs and CodeWars Level 7 | Submit Labs  and Project 3 Issues | ui-router vs ngRoute readings: [#1][10-3E] + [#2][10-3F] + [#3][10-3G] | Finish Full-Stack Cards | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
 
@@ -40,7 +40,7 @@ Time | Day 1                           | Day 2                                  
 
 [10-5A]: https://github.com/den-wdi-1/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
 [10-5B]: # "Outcomes" 
-[10-5D]: https://github.com/den-wdi-1/Angular-review-topics "Dev-Led Review"
+[10-5C]: https://github.com/den-wdi-1/Angular-review-topics "Dev-Led Review"
 [10-5D]: https://github.com/den-wdi-1/rapid-prototype "Rapid Prototyping"
 [10-5E]: https://github.com/den-wdi-1/rapid-prototype "Rapid Prototype Weekend Lab"
 [10-5F]: https://github.com/den-wdi-1/lighting-talks "Lightning Talk Research"
