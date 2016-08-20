@@ -4,6 +4,8 @@
 
 #### Week 11 - Developer-chosen Electives
 
+#### [IoT Lesson](https://github.com/den-wdi-1/IoT-Hobby-Projects)
+
 #### Week 10 - Angular
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
