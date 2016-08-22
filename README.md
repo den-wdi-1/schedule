@@ -15,7 +15,7 @@ Time | Day 1                                 | Day 2                            
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Module 1** | Science Fair (Group) | Redux (JP)  | Lightning Talks  | Intro to Dev Ops (JP) | Project 4 |
-**10:30am Module 2** | [Rails API Mode (JP)][11-1B] | Legacy Code Lab (Zeb) | Lightning Talks | Planning | Outcomes |
+**10:30am Module 2** | [Rangular Apps (JP)][11-1B] | Legacy Code Lab (Zeb) | Lightning Talks | Planning | Outcomes |
 **1:00pm Module 3** | [Gulp (JP)][11-1C] | Legacy Code Lab (Zeb) | Lightning Talks | Approvals | Project 4 | Approvals |
 **2:30pm Module 4** | [React (Zeb)][11-1D] | Legacy Code Lab (Zeb) | Project 4 Intro | Approvals | Project 4 | Outcomes |
 **Homework** |  Lightning Talks Prep | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
@@ -24,7 +24,7 @@ Time | Day 1                                 | Day 2                            
 #### Extra Lab for Rails API Mode with Angular: [Rangular](https://github.com/den-wdi-1/rails-api-lab)
 
 [11-1A]: # "Science Fair"
-[11-1B]: https://github.com/den-wdi-1/rails-api-lesson "Rails API Mode"
+[11-1B]: https://github.com/den-wdi-1/cards-against-rails "Rangular Apps"
 [11-1C]: https://github.com/den-wdi-1/gulp "Gulp"
 [11-1D]: https://github.com/den-wdi-1/react "React"
 [11-1E]: # " "
