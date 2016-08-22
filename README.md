@@ -6,18 +6,18 @@ Time | Day 1                                 | Day 2                            
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Scrum | Scrum | Scrum | Project Work | TBD
 **9:15am** | Project Work | Project Work | Project Work | Project Work | TBD  
-**11am** |Mock Interviews | Mock Interviews | Project Work | Project Work | Outcomes
-**1:00pm** |Project Work | Project Work | Project Work | Presentations | Final Survey, Certificates, and Recap
+**11am** |Mock Interviews | Mock Interviews | Project Work | Project Work | TBD
+**1:00pm** |Project Work | Project Work | Project Work | Presentations / Outcomes (2:00) | Final Survey, Certificates, and Recap
 **Homework** |Project Work | Project Work | Project Work | Presentations | Happy Hour
 
 #### Week 11: Miscellaneous and Developer-Chosen Topics
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** | Science Fair (Group) | Redux (JP)  | Lightning Talks  | Intro to Dev Ops (JP) | Project 4 |
+**9:00am Module 1** | Science Fair (Group) | [React (Zeb)][11-1D]  | Lightning Talks  | Intro to Dev Ops (JP) | Project 4 |
 **10:30am Module 2** | [Rangular Apps (JP)][11-1B] | Legacy Code Lab (Zeb) | Lightning Talks | Planning | Outcomes |
 **1:00pm Module 3** | [Gulp (JP)][11-1C] | Legacy Code Lab (Zeb) | Lightning Talks | Approvals | Project 4 | Approvals |
-**2:30pm Module 4** | [React (Zeb)][11-1D] | Legacy Code Lab (Zeb) | Project 4 Intro | Approvals | Project 4 | Outcomes |
+**2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | Project 4 Intro | Approvals | Project 4 | Outcomes |
 **Homework** |  Lightning Talks Prep | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
 
 #### Extra Lab for Auth in Angular: [angular-auth-satellizer](https://github.com/den-wdi-1/angular-auth-satellizer) 
