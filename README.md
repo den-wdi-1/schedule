@@ -15,7 +15,7 @@ Time | Day 1                                 | Day 2                            
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Module 1** | Science Fair (Group) | [React (Zeb)][11-2A]  | Lightning Talks  | Intro to Dev Ops (JP) | Project 4 |
-**10:30am Module 2** | [Rangular Apps (JP)][11-1B] | Legacy Code Lab (Zeb) | Lightning Talks | Planning | Outcomes |
+**10:30am Module 2** | [Rangular Apps (JP)][11-1B] | [Legacy Code Lab (Zeb)][11-2B] | Lightning Talks | Planning | Outcomes |
 **1:00pm Module 3** | [Gulp (JP)][11-1C] | Legacy Code Lab (Zeb) | Lightning Talks | Approvals | Project 4 | Approvals |
 **2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | Project 4 Intro | Approvals | Project 4 | Outcomes |
 **Homework** |  Finish Prototypes | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
@@ -31,7 +31,7 @@ Time | Day 1                                 | Day 2                            
 [11-1E]: # " "
 <!--
 [11-2A]: https://github.com/den-wdi-1/react "React"
-[11-2B]: https://github.com/den-wdi-1/legacy-code "Legacy Code"
+[11-2B]: https://github.com/jpbarela/legacy-code-denver "Legacy Code"
 [11-2C]: 
 [11-2D]: 
 [11-2E]: # " "
