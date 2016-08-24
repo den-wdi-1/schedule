@@ -17,7 +17,7 @@ Time | Day 1                                 | Day 2                            
 **9:00am Module 1** | Science Fair (Group) | [React (Zeb)][11-2A]  | Lightning Talks  | Intro to Dev Ops (JP) | Outcomes |
 **10:30am Module 2** | [Rangular Apps (JP)][11-1B] | [Legacy Code Lab (Zeb)][11-2B] | Lightning Talks | Planning | Project 4 |
 **1:00pm Module 3** | [Gulp (JP)][11-1C] | Legacy Code Lab (Zeb) | Lightning Talks | Approvals | Project 4 | Approvals |
-**2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | Project 4 Intro | Approvals | Project 4 | Outcomes |
+**2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | [Project 4 Intro][11-3D] | Approvals | Project 4 | Outcomes |
 **Homework** |  Finish Prototypes | Lightning Talks Prep | Project Ideation | Project 4 | Project 4 |
 
 #### Extra Lab for Auth in Angular: [angular-auth-satellizer](https://github.com/den-wdi-1/angular-auth-satellizer) 
@@ -39,10 +39,10 @@ Time | Day 1                                 | Day 2                            
 [11-3A]: https://github.com/den-wdi-1/lighting-talks "Lighting Talks"
 [11-3B]: https://github.com/den-wdi-1/lighting-talks "Lighting Talks"
 [11-3C]: https://github.com/den-wdi-1/lighting-talks "Lighting Talks"
-[11-3D]: https://github.com/den-wdi-1/dev-ops "Dev Ops Intro"
+[11-3D]: https://github.com/den-wdi-1/project-4 "Project 4"
 [11-3E]: # " "
 
-[11-4A]: https://github.com/den-wdi-1/project-4 "Project 4"
+[11-4A]: https://github.com/den-wdi-1/dev-ops "Dev Ops Intro"
 [11-4B]: # " "
 [11-4C]: # "Project 4"
 [11-4D]: # " "
