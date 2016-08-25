@@ -14,7 +14,7 @@ Time | Day 1                                 | Day 2                            
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Module 1** | Science Fair (Group) | [React (Zeb)][11-2A]  | Lightning Talks  | Intro to Dev Ops (JP) | Outcomes |
+**9:00am Module 1** | Science Fair (Group) | [React (Zeb)][11-2A]  | Lightning Talks  | [Intro to Ops (JP)][11-4A] | Outcomes |
 **10:30am Module 2** | [Rangular Apps (JP)][11-1B] | [Legacy Code Lab (Zeb)][11-2B] | Lightning Talks | Planning | Project 4 |
 **1:00pm Module 3** | [Gulp (JP)][11-1C] | Legacy Code Lab (Zeb) | Lightning Talks | Approvals | Project 4 | Approvals |
 **2:30pm Module 4** | Prototype Working Session | Legacy Code Lab (Zeb) | [Project 4 Intro][11-3D] | Approvals | Project 4 | Outcomes |
@@ -42,7 +42,7 @@ Time | Day 1                                 | Day 2                            
 [11-3D]: https://github.com/den-wdi-1/project-4 "Project 4"
 [11-3E]: # " "
 
-[11-4A]: https://github.com/den-wdi-1/dev-ops "Dev Ops Intro"
+[11-4A]: https://github.com/den-wdi-1/intro-to-ops "Dev Ops Intro"
 [11-4B]: # " "
 [11-4C]: # "Project 4"
 [11-4D]: # " "
