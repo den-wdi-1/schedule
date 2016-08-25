@@ -27,13 +27,10 @@ Time | Day 1                                 | Day 2                            
 [11-1A]: # "Science Fair"
 [11-1B]: https://github.com/den-wdi-1/cards-against-rails "Rangular Apps"
 [11-1C]: https://github.com/den-wdi-1/gulp "Gulp"
-[11-1D]: 
 [11-1E]: # " "
 
 [11-2A]: https://github.com/den-wdi-1/react "React"
 [11-2B]: https://github.com/jpbarela/legacy-code/ "Legacy Code"
-[11-2C]: 
-[11-2D]: 
 [11-2E]: # " "
 
 [11-3A]: https://github.com/den-wdi-1/lighting-talks "Lighting Talks"
