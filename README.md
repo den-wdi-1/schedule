@@ -6,7 +6,7 @@ Time | Day 1                                 | Day 2                            
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | Scrum | Scrum | Scrum | Project Work | TBD
 **9:15am** | Project Work | Project Work | Project Work | Project Work | TBD  
-**11am** |Mock Interviews | Mock Interviews | Project Work | Project Work | TBD
+**11am** | Project Work | Mock Interviews | Mock Interviews | Project Work | TBD
 **1:00pm** |Project Work | Project Work | Project Work | Presentations / Outcomes (2:00) | Final Survey, Certificates, and Recap
 **Homework** |Project Work | Project Work | Project Work | Presentations | Happy Hour
 
